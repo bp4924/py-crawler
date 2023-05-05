@@ -1,7 +1,17 @@
 import requests
+import os
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
+file_path = 'results/urls.txt'
+
+delete_file = input("Do you want to delete the file? (y/n): ")  
+if delete_file == 'y':
+    if os.path.exists(file_path):
+        os.remove(file_path)
+        print("File deleted")
+    else:
+        print("The file does not exist")
 class SimpleSpider:
    def __init__(self, start_url, max_pages=10):
        self.start_url = start_url
@@ -33,7 +43,7 @@ class SimpleSpider:
            with open('results/urls.txt', 'a') as f:
                 f.write(url + '\n')
            self.visited_pages.add(url)
-           print(f"Visiting: {url}")
+#           print(f"Visiting: {url}")
            links = self.get_links(url)
 
            for link in links:
@@ -43,4 +53,5 @@ if __name__ == "__main__":
    start_url = "https://example.com/"
    spider = SimpleSpider(start_url)
    spider.crawl(start_url)
+   print("Done")
 
