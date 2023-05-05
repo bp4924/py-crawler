@@ -12,6 +12,7 @@ if delete_file == 'y':
         print("File deleted")
     else:
         print("The file does not exist")
+        
 class SimpleSpider:
    def __init__(self, start_url, max_pages=10):
        self.start_url = start_url
@@ -25,13 +26,18 @@ class SimpleSpider:
        response = requests.get(url)
        soup = BeautifulSoup(response.text, 'html.parser')
        links = set()
-
+       
        for link in soup.find_all('a', href=True):
            href = link['href']
            if self.is_valid_url(href):
                links.add(href)
            elif href.startswith('/'):
                links.add(urljoin(url, href))
+
+       headers = soup.find_all(['h1', 'h2'])
+       with open('results/urls.txt', 'a') as f:
+           for header in headers:
+               f.write(header.text + '\n') 
 
        return links
 

@@ -1,10 +1,24 @@
 https://example.com/
+Example Domain
 https://www.iana.org/domains/example
-https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html
-https://www.iana.org/dnssec/procedures
-https://www.iana.org/dnssec/procedures/ksk-operator/KSK_Termination_Plan_v3.4.pdf
-https://www.iana.org/dnssec/procedures/ksk-operator/KSK_PMA_Charter_v3.4.pdf
-https://www.iana.org/dnssec/procedures/ksk-operator/KSK_Audit_and_Accountability_Policy_v3.4.pdf
-https://www.iana.org/dnssec/procedures/ksk-operator/KSK_Information_Security_Policy_v3.4.pdf
-https://www.iana.org/domains/int
-https://www.iana.org/domains/int/policy/
+IANA-managed Reserved Domains
+Example domains
+Test IDN top-level domains
+Policy-reserved domains
+Other Special-Use Domains
+Domain Names
+https://www.iana.org/domains/root/manage
+Manage a Delegation
+Online System
+Email template
+More information
+Domain Names
+https://www.iana.org/domains/idn-tables
+Repository of IDN Practices
+Domain Names
+https://www.iana.org/domains/idn-tables/tables/omega_yiii_2.5.txt
+https://www.iana.org/domains/idn-tables/tables/hotmail_khar_2.5.txt
+https://www.iana.org/domains/idn-tables/tables/blue_fr_1.txt
+https://www.iana.org/domains/idn-tables/tables/visa_cans_2.5.txt
+https://www.iana.org/domains/idn-tables/tables/sener_phag_2.5.txt
+https://www.iana.org/domains/idn-tables/tables/bnpparibas_it_1.txt
