@@ -3,7 +3,7 @@ import os
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
-file_path = 'results/urls.txt'
+file_path = 'results/data.txt'
 
 delete_file = input("Do you want to delete the file? (y/n): ")
 if delete_file == 'y':
@@ -40,9 +40,6 @@ class SimpleSpider:
             for header in headers:
                 f.write(header.text + '\n')
 
-#               with open('filename.txt', 'w', encoding='windows-1252') as f:
-#    f.write('Some text with special characters: é, ç, ñ')
-
         return links
 
     def crawl(self, url):
@@ -53,7 +50,6 @@ class SimpleSpider:
             with open(file_path, 'a') as f:
                 f.write(url + '\n')
             self.visited_pages.add(url)
-#           print(f"Visiting: {url}")
             links = self.get_links(url)
 
             for link in links:
@@ -64,4 +60,4 @@ if __name__ == "__main__":
     start_url = "https://example.com/"
     spider = SimpleSpider(start_url)
     spider.crawl(start_url)
-    print("Done")
+    print("Done!! View results in " + file_path)

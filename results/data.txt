@@ -1,0 +1,27 @@
+https://example.com/
+Example Domain
+https://www.iana.org/domains/example
+IANA-managed Reserved Domains
+Example domains
+Test IDN top-level domains
+Policy-reserved domains
+Other Special-Use Domains
+Domain Names
+https://www.iana.org/domains/root/db/xn--jxalpdlp.html
+Delegation Record for .ΔΟΚΙΜΉ
+Sponsoring Organisation
+Administrative Contact
+Technical Contact
+Name Servers
+Registry Information
+IANA Reports
+Domain Names
+https://www.iana.org/domains/idn-tables
+Repository of IDN Practices
+Domain Names
+https://www.iana.org/domains/idn-tables/tables/mortgage_arab_1.0.txt
+https://www.iana.org/domains/idn-tables/tables/reviews_es_1.1.txt
+https://www.iana.org/domains/idn-tables/tables/booking_no_3.0.xml
+https://www.iana.org/domains/idn-tables/tables/com_avst_1.2.txt
+https://www.iana.org/domains/idn-tables/tables/name_tglg_2.5.txt
+https://www.iana.org/domains/idn-tables/tables/azure_limb_2.5.txt
