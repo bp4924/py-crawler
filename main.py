@@ -15,7 +15,7 @@ if delete_file == 'y':
 
 
 class SimpleSpider:
-    def __init__(self, start_url, max_pages=10):
+    def __init__(self, start_url, max_pages=3):
         self.start_url = start_url
         self.max_pages = max_pages
         self.visited_pages = set()
@@ -35,10 +35,24 @@ class SimpleSpider:
             elif href.startswith('/'):
                 links.add(urljoin(url, href))
 
-        headers = soup.find_all(['h1', 'h2'])
+        titles = soup.find("title")
         with open(file_path, 'a', encoding='utf-8') as f:
-            for header in headers:
-                f.write(header.text + '\n')
+            for title in titles:
+                f.write('Title: ' + title.text + '\n')
+
+        headers = soup.find_all(['h1', 'h2', 'h3'])
+        if headers is not None:
+            # incase the return has extended characters
+            with open(file_path, 'a', encoding='utf-8') as f:
+                for header in headers:
+                    f.write(f"{header.name}:  {header.text}\n")
+
+        page_texts = soup.find_all("body")
+#        print(page_texts)
+        # incase the return has extended characters
+        with open(file_path, 'a', encoding='utf-8') as f:
+            for page_text in page_texts:
+                f.write(page_text.text + "\n")
 
         return links
 

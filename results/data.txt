@@ -1,27 +1,463 @@
 https://example.com/
+Title: Example Domain
+h1:  Example Domain
+
+
 Example Domain
+This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.
+More information...
+
+
 https://www.iana.org/domains/example
+Title: IANA-managed Reserved Domains
+h1:  IANA-managed Reserved Domains
+h2:  Example domains
+h2:  Test IDN top-level domains
+h2:  Policy-reserved domains
+h2:  Other Special-Use Domains
+h2:  Domain Names
+
+
+
+
+
+
+
+
+Domains
+Protocols
+Numbers
+About
+
+
+
+
+
+
+
 IANA-managed Reserved Domains
+Certain domains are set aside, and nominally registered to “IANA”, for specific
+		policy or technical purposes.
 Example domains
+As described in RFC 2606 and RFC 6761,
+	a number of domains such as example.com and example.org
+	are maintained for documentation purposes. These domains may be used as illustrative
+	examples in documents without prior coordination with us. They are 
+	not available for registration or transfer.
 Test IDN top-level domains
+These domains were temporarily delegated by IANA for the IDN Evaluation being conducted by ICANN.
+
+
+
+DomainDomain (A-label)LanguageScript
+
+
+إختبارXN--KGBECHTV
+ArabicArabic
+آزمایشیXN--HGBK6AJ7F53BBA
+PersianArabic
+测试XN--0ZWM56D
+ChineseHan (Simplified variant)
+測試XN--G6W251D
+ChineseHan (Traditional variant)
+испытаниеXN--80AKHBYKNJ4F
+RussianCyrillic
+परीक्षाXN--11B5BS3A9AJ6G
+HindiDevanagari (Nagari)
+δοκιμήXN--JXALPDLP
+Greek, Modern (1453-)Greek
+테스트XN--9T4B11YI5A
+KoreanHangul (Hangŭl, Hangeul)
+טעסטXN--DEBA0AD
+YiddishHebrew
+テストXN--ZCKZAH
+JapaneseKatakana
+பரிட்சைXN--HLCJ6AYA9ESC7A
+TamilTamil
+
+
 Policy-reserved domains
+We act as both the registrant and registrar for a select number of domains
+		which have been reserved under policy grounds. These exclusions are
+		typically indicated in either technical standards (RFC documents),
+		or contractual limitations.
+Domains which are described as registered to IANA or ICANN on policy
+		grounds are not available for registration or transfer, with the exception
+		of country-name.info domains. These domains are available for release
+		by the ICANN Governmental Advisory Committee Secretariat.
 Other Special-Use Domains
+There is additionally a Special-Use Domain Names registry documenting special-use domains designated by technical standards. For further information, see Special-Use Domain Names (RFC 6761).
+
+
+
 Domain Names
-https://www.iana.org/domains/root/db/xn--jxalpdlp.html
-Delegation Record for .ΔΟΚΙΜΉ
-Sponsoring Organisation
-Administrative Contact
-Technical Contact
-Name Servers
-Registry Information
-IANA Reports
+
+Overview
+Root Zone Management
+
+Overview
+Root Database
+Hint and Zone Files
+Change Requests
+Instructions & Guides
+Root Servers
+
+.INT Registry
+
+Overview
+Register/modify an .INT domain
+Eligibility
+
+.ARPA Registry
+IDN Practices Repository
+
+Overview
+
+Submit a table
+
+Root Key Signing Key (DNSSEC)
+
+Overview
+Trusts Anchors and Keys
+Key Signing Ceremonies
+Policies & Procedures
+Community Representatives
+Project Archive
+
+Reserved Domains
+
+
+
+
+
+
+
+
+
+Domain Names
+
+
+Root Zone Registry
+.INT Registry
+.ARPA Registry
+IDN Repository
+
+
+
+
+Number Resources
+
+
+Abuse Information
+
+
+
+
+Protocols
+
+
+Protocol Registries
+Time Zone Database
+
+
+
+
+About Us
+
+
+Performance
+Reports
+Reviews
+Excellence
+Contact Us
+
+
+
+
+
+The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by Public Technical Identifiers, an affiliate of
+                ICANN.
+
+
+
+Privacy Policy
+Terms of Service
+
+
+
+
+
+
+https://www.iana.org/dnssec/procedures
+Title: DNSSEC Practice Statement
+h1:  Policies and Procedures
+h2:  DNSSEC Practice Statements
+h2:  Additional Procedures
+h2:  Domain Names
+
+
+
+
+
+
+
+
+Domains
+Protocols
+Numbers
+About
+
+
+
+
+
+
+
+Policies and Procedures
+DNSSEC Practice Statements
+The DNSSEC Practice Statements represent the adopted policies against which the cryptographic keys for 
+    the DNS root zone are managed.
+
+
+
+Document
+Effective Date
+
+
+
+Root Zone KSK Operator 6th Ed (IANA Functions)
+2020-11-04
+
+
+Root Zone ZSK Operator v2.1 (Root Zone Maintainer)
+2018-12-21
+
+
+Additional Procedures
+The requirements of the DNSSEC Practice Statements are implemented by a series of policies and procedural
+    documents. These documents are reviewed annually by the Root Zone KSK Policy Management Authority.
+
+
+
+Title of Document
+Description
+
+
+
+KSK Audit and Accountability Policy v3.4
+Effective 2022-10-19
+
+Describes access to Key Management Facilities (KMFs) and operations involving the private component of the RZ KSK to
+				remain traceable in time including the responsible party triggering the event.
+
+
+KSK Audit Logging Procedure v3.4
+Effective 2022-10-19
+
+Describes recording access to Key Management Facilities (KMFs) and operations involving the private component of the
+				RZ KSK including the parties involved and operations performed when access to a KMF or RZ KSK occurred.
+
+
+KSK Disaster Recovery and Business ContinuityProcedure v3.5
+Effective 2022-10-19
+
+Describes requirements and recommendations to be performed by designated personnel, systems, and other means in
+				disaster recovery scenarios in relation to RZ KSK operations.
+
+
+KSK Document Management Procedure v3.4
+Effective 2022-10-19
+
+Describes the life cycle of supporting documents in relation to RZ KSK operations.
+
+
+KSK Emergency Rollover Plan v3.4
+Effective 2022-10-19
+
+Describes emergency RZ KSK rollovers in relation to RZ KSK operations, initiated if the RZ KSK Private Key has been
+				irrecoverably lost or compromised.
+
+
+KSK Incident Handling Procedure v3.4
+Effective 2022-10-19
+
+Describes requirements and recommendations for handling security incidents, or events that could potentially be
+				security incidents in relation to RZ KSK operations.
+
+
+KSK Information Security Policy v3.4
+Effective 2022-10-19
+
+Describes the establishment of preventive controls and measures for the identification, management, and monitoring
+				of threats (whether internal or external, deliberate or accidental) to the information assets in relation to RZ KSK
+				operations.
+
+
+KSK Key Management Policy v3.5
+Effective 2022-10-19
+
+Describes risks associated with the management of cryptographic keys, proper mitigation of risks to an acceptable
+				level, and the management and maintenance of this level of risk over time in relation to RZ KSK operations.
+
+
+KSK Key Management Procedure v3.5
+Effective 2022-10-19
+
+Describes requirements and recommendations for procedures to be performed by designated personnel, systems, and
+				other means in relation to RZ KSK operations.
+
+
+KSK Password Policy v3.4
+Effective 2022-10-19
+
+Describes requirements for managing passwords and personal identification numbers (PINs) in relation to RZ KSK
+				operations.
+
+
+KSK Personnel Security Policy v3.4
+Effective 2022-10-19
+
+Describes responsibilities of staff, contractors, and third-party users to ensure understanding and suitability for
+				the roles in which they are considered in relation to RZ KSK operations and seeks to mitigate risk from internal
+				threats such as sabotage, espionage, denial of service, and in extreme cases, terrorism.
+
+
+KSK Physical Access Control Procedure v3.4
+Effective 2022-10-19
+
+Describes responsibilities and provides recommendations to be performed by designated personnel, systems, and other
+				means in relation to RZ KSK operations.
+
+
+KSK Physical Security Policy v3.4
+Effective 2022-10-19
+
+Describes risks associated with physical security, proper mitigation of risks to an acceptable level, and the
+				management and maintenance of this level of risk over time in relation to KSK operations.
+
+
+KSK PMA Charter v3.4
+Effective 2022-10-19
+
+Describes the structure and responsibility of the PMA and PMA members' roles and responsibilities in relation to RZ
+				KSK operations.
+
+
+KSK Software Maintenance Procedure v3.4
+Effective 2022-10-19
+
+Describes the parameters of the key management software used by the RZ KSK Operator to create and maintain KSKs and
+				to process Key Signing Requests (KSRs) submitted by the Zone Signing Key (ZSK) operator.
+
+
+KSK Termination Plan v3.4
+Effective 2022-10-19
+
+Describes a high-level plan for terminating and transferring the roles and responsibilities of the RZ KSK Operator
+				to a successor.
+
+
+
+
+
 Domain Names
-https://www.iana.org/domains/idn-tables
-Repository of IDN Practices
-Domain Names
-https://www.iana.org/domains/idn-tables/tables/mortgage_arab_1.0.txt
-https://www.iana.org/domains/idn-tables/tables/reviews_es_1.1.txt
-https://www.iana.org/domains/idn-tables/tables/booking_no_3.0.xml
-https://www.iana.org/domains/idn-tables/tables/com_avst_1.2.txt
-https://www.iana.org/domains/idn-tables/tables/name_tglg_2.5.txt
-https://www.iana.org/domains/idn-tables/tables/azure_limb_2.5.txt
+
+Overview
+Root Zone Management
+
+Overview
+Root Database
+Hint and Zone Files
+Change Requests
+Instructions & Guides
+Root Servers
+
+.INT Registry
+
+Overview
+Register/modify an .INT domain
+Eligibility
+
+.ARPA Registry
+IDN Practices Repository
+
+Overview
+
+Submit a table
+
+Root Key Signing Key (DNSSEC)
+
+Overview
+Trusts Anchors and Keys
+Key Signing Ceremonies
+Policies & Procedures
+Community Representatives
+Project Archive
+
+Reserved Domains
+
+
+
+
+
+
+
+
+
+Domain Names
+
+
+Root Zone Registry
+.INT Registry
+.ARPA Registry
+IDN Repository
+
+
+
+
+Number Resources
+
+
+Abuse Information
+
+
+
+
+Protocols
+
+
+Protocol Registries
+Time Zone Database
+
+
+
+
+About Us
+
+
+Performance
+Reports
+Reviews
+Excellence
+Contact Us
+
+
+
+
+
+The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by Public Technical Identifiers, an affiliate of
+                ICANN.
+
+
+
+Privacy Policy
+Terms of Service
+
+
+
+
+
+
