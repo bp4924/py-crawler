@@ -35,7 +35,7 @@ class SimpleSpider:
                links.add(urljoin(url, href))
 
        headers = soup.find_all(['h1', 'h2'])
-       with open('results/urls.txt', 'a') as f:
+       with open(file_path, 'a') as f:
            for header in headers:
                f.write(header.text + '\n') 
 
@@ -46,7 +46,7 @@ class SimpleSpider:
            return
 
        if url not in self.visited_pages:
-           with open('results/urls.txt', 'a') as f:
+           with open(file_path, 'a') as f:
                 f.write(url + '\n')
            self.visited_pages.add(url)
 #           print(f"Visiting: {url}")

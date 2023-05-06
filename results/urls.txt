@@ -7,18 +7,34 @@ Test IDN top-level domains
 Policy-reserved domains
 Other Special-Use Domains
 Domain Names
-https://www.iana.org/domains/root/manage
-Manage a Delegation
-Online System
-Email template
-More information
+https://www.iana.org/domains/root/help
+User Instructions and Guides
+Root Zone Management user guide
+Process descriptions and guides
+Domain-related help articles
 Domain Names
-https://www.iana.org/domains/idn-tables
-Repository of IDN Practices
-Domain Names
-https://www.iana.org/domains/idn-tables/tables/omega_yiii_2.5.txt
-https://www.iana.org/domains/idn-tables/tables/hotmail_khar_2.5.txt
-https://www.iana.org/domains/idn-tables/tables/blue_fr_1.txt
-https://www.iana.org/domains/idn-tables/tables/visa_cans_2.5.txt
-https://www.iana.org/domains/idn-tables/tables/sener_phag_2.5.txt
-https://www.iana.org/domains/idn-tables/tables/bnpparibas_it_1.txt
+https://www.iana.org/procedures/idn-repository.html
+Procedures for the IDN Repository
+Overview
+LGR Requirements
+Registration Process
+Language and Script Codes
+https://www.iana.org/reviews
+IANA Reviews
+About us
+https://www.iana.org/procedures
+Procedures
+About us
+https://www.iana.org/help/inr-request-procedure
+Making Internet Number Resource Allocations to Regional Internet Registries
+IPv4 Address Allocations
+IPv6 Address Allocations
+AS Number Allocation
+Change in Named Registrant
+About us
+https://www.icann.org/privacy/policy
+PRIVACY POLICY
+https://www.icann.org/resources/pages/registrar-faqs-2004-11-03-en
+FAQ for Registrars
+https://www.icann.org/resources/pages/press-releases-2023-2023-01-31-en
+ICANN Press Releases | 2023
