@@ -26,8 +26,9 @@ class SimpleSpider:
     def get_links(self, url):
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
-        links = set()
 
+# links
+        links = set()
         for link in soup.find_all('a', href=True):
             href = link['href']
             if self.is_valid_url(href):
@@ -35,24 +36,24 @@ class SimpleSpider:
             elif href.startswith('/'):
                 links.add(urljoin(url, href))
 
+# titles
         titles = soup.find("title")
         with open(file_path, 'a', encoding='utf-8') as f:
             for title in titles:
                 f.write('Title: ' + title.text + '\n')
 
+# headers
         headers = soup.find_all(['h1', 'h2', 'h3'])
         if headers is not None:
-            # incase the return has extended characters
             with open(file_path, 'a', encoding='utf-8') as f:
                 for header in headers:
                     f.write(f"{header.name}:  {header.text}\n")
 
+# text of page
         page_texts = soup.find_all("body")
-#        print(page_texts)
-        # incase the return has extended characters
         with open(file_path, 'a', encoding='utf-8') as f:
             for page_text in page_texts:
-                f.write(page_text.text + "\n")
+                f.write(f"{page_text.name}: {page_text.text} + \n")
 
         return links
 
