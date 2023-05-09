@@ -1,27 +1,31 @@
 import requests
 import os
 import csv
+import json
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
 file_path = 'results/data.txt'
 file_path_csv = 'results/data.csv'
+file_path_json = 'results/data.json'
+results_folder = "results"
 
-delete_file = input("Do you want to delete the files? (y/n): ")
+
+delete_file = input("Do you want to delete the files? (y/n): ") or "y"
 if delete_file == 'y':
-    if os.path.exists(file_path_csv):
-        os.remove(file_path_csv)
-        print(file_path_csv + " deleted")
-    else:
-        print(file_path_csv + "does not exist")
-    print("Creating new file" + '\n')
 
-    if os.path.exists(file_path):
-        os.remove(file_path)
-        print(file_path + " deleted")
+    if os.path.exists(results_folder):
+        # Iterate over all files in the folder
+        for file_name in os.listdir(results_folder):
+            file_path = os.path.join(results_folder, file_name)
+            if os.path.isfile(file_path):
+                # Remove the file
+                os.remove(file_path)
+                print(file_path + " deleted")
     else:
-        print(file_path + "does not exist")
-    print("Creating new file" + '\n')
+        print(results_folder + " does not exist")
+
+    print("Creating new files" + '\n')
 
 
 class SimpleSpider:
@@ -50,6 +54,11 @@ class SimpleSpider:
             elif href.startswith('/'):
                 links.add(urljoin(url, href))
 
+            with open(file_path_json, 'a', encoding='utf-8') as json_file:
+                for link in links:
+                    json.dump(link, json_file)
+
+
 # titles
         titles = soup.find("title")
         if titles is not None:
@@ -60,6 +69,10 @@ class SimpleSpider:
                 with open(file_path_csv, 'a', encoding='utf-8') as f:
                     for title in titles:
                         f.write("Title: " + title.text)
+
+                with open(file_path_json, 'a', encoding='utf-8') as json_file:
+                    for title in titles:
+                        json.dump(title, json_file)
 
 # headers
         headers = soup.find_all(['h1', 'h2', 'h3'])
