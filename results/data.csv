@@ -208,598 +208,782 @@ $(document).ready(function() {
 None: 
  + 
 Title,Url
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
-h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,8,0,a,k,h,b,y,k,n,j,4,f,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,j,x,a,l,p,d,l,p,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,9,t,4,b,1,1,y,i,5,a,.,h,t,m,l
 h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,2,6,0,6
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,8,0,a,k,h,b,y,k,n,j,4,f,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,g,i,s,t,r,i,e,s,/,a,g,r,e,e,m,e,n,t,s,.,h,t,m
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,o,p,i,c,s,/,i,d,n,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,0,z,w,m,5,6,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,s,s,i,g,n,m,e,n,t,s,/,s,p,e,c,i,a,l,-,u,s,e,-,d,o,m,a,i,n,-,n,a,m,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,g,6,w,2,5,1,d,.,h,t,m,l
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,6,7,6,1
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,s,s,i,g,n,m,e,n,t,s,/,s,p,e,c,i,a,l,-,u,s,e,-,d,o,m,a,i,n,-,n,a,m,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,z,c,k,z,a,h,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,d,e,b,a,0,a,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,l,c,j,6,a,y,a,9,e,s,c,7,a,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,k,g,b,e,c,h,t,v,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,0,z,w,m,5,6,d,.,h,t,m,l
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,1,1,b,5,b,s,3,a,9,a,j,6,g,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,2,6,0,6
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,g,b,k,6,a,j,7,f,5,3,b,b,a,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
-Title: Root KSK Ceremoniesh1:  Key Signing Ceremonies
-h2:  Ceremonies
-h2:  Domain Names
-None: 
- + 
-header: 
-
-
-
-
-
-
-Domains
-Protocols
-Numbers
-About
-
-
-
- + 
-None: 
- + 
-div: 
-
-
-Key Signing Ceremonies
-Ceremonies are usually conducted four times a year to perform operations using the Root
-    Key Signing Key, and involving Trusted Community Representatives.
-    In a typical ceremony, the KSK is used to sign a set of operational ZSKs that
-    will be used for a three month period to sign the DNS root zone. Other operations that may
-    occur during ceremonies include installing new cryptographic officers, replacing hardware,
-    or generating or replacing a KSK.
-Ceremonies
-
-
-
-Date
-Ceremony
-Agenda
-
-
-
-2023-07-19
-
-                    KSK Ceremony 50
-Sign 2023Q4 ZSKs
-
-
-2023-04-27
-
-                    KSK Ceremony 49
-Sign 2023Q3 ZSKs; Generate KSK-2023; Replace CO6 (East)
-
-
-2023-02-01
-
-                    KSK Ceremony 48
-Sign 2023Q2 ZSKs; Reissue CO Cards; Replace CO2 (West); Introduce HSM7W
-
-
-2022-11-03
-
-                    KSK Ceremony 47
-Sign 2023Q1 ZSKs; Replace CO2 & CO7 (East)
-
-
-2022-08-17
-
-                    KSK Ceremony 46
-Sign 2022Q4 ZSKs; Replace CO6 (West); Destroy HSMs 3&4 (West)
-
-
-2022-05-12
-
-                    KSK Ceremony 45
-Sign 2022Q3 ZSKs; Reissue CO Cards; Replace 2 TCRs; Destroy HSM4 (East)
-
-
-2022-02-16
-
-                    KSK Ceremony 44
-Sign 2022Q2 ZSKs; Introduce HSM6W
-
-
-2021-10-14
-
-                    KSK Ceremony 43
-Sign 2022Q1 ZSKs; Introduce HSM6E
-
-
-2021-02-11
-
-                    KSK Ceremony 42
-Sign 2021Q2-2021Q4 ZSKs
-
-
-2020-04-23
-
-                    KSK Ceremony 41
-Sign 2020Q3-2021Q1 ZSKs
-
-
-2020-02-16
-
-                    KSK Ceremony 40
-Sign 2020Q2 ZSKs
-
-
-2019-11-14
-
-                    KSK Ceremony 39
-Sign 2020Q1 ZSKs; Destroy HSM3 (East)
-
-
-2019-08-14
-
-                    KSK Ceremony 38
-Sign 2019Q4 ZSKs; KSK Delete; Destroy HSMs 1&2; Introduce HSM5W
-
-
-2019-05-16
-
-                    KSK Ceremony 37
-Sign 2019Q3 ZSKs; KSK Delete; Destroy HSMs 1&2; Introduce HSM5E
-
-
-2019-02-27
-
-                    KSK Ceremony 36
-Sign 2019Q2 ZSKs
-
-
-2018-11-15
-
-                    KSK Ceremony 35
-Sign 2019Q1 ZSKs
-
-
-2018-08-15
-
-                    KSK Ceremony 34
-Sign 2018Q4 ZSKs
-
-
-2018-04-11
-
-                    KSK Ceremony 33
-Sign 2018Q3 ZSKs
-
-
-2018-02-07
-
-                    KSK Ceremony 32
-Sign 2018Q2 ZSKs; Destruction Test HSM1 (West)
-
-
-2017-10-18
-
-                    KSK Ceremony 31
-Sign 2018Q1 ZSKs; Replace RKSH 3
-
-
-2017-08-17
-
-                    KSK Ceremony 30
-Sign 2017Q4 ZSKs
-
-
-2017-04-27
-
-                    KSK Ceremony 29
-Sign 2017Q3 ZSKs
-
-
-2017-02-02
-
-                    KSK Ceremony 28
-Sign 2017Q2 ZSKs; Import KSK-2017
-
-
-2016-10-27
-
-                    KSK Ceremony 27
-Sign 2017Q1 ZSKs; Generate KSK-2017; Zeroize HSMs 1&2 (East)
-
-
-2016-08-11
-
-                    KSK Ceremony 26
-Sign 2016Q4 ZSKs; Zeroize HSMs 1&2 (West)
-
-
-2016-05-12
-
-                    KSK Ceremony 25
-Sign 2016Q3 ZSKs
-
-
-2016-02-11
-
-                    KSK Ceremony 24
-Sign 2016Q2 ZSKs; Replace CO6 (West)
-
-
-2015-11-12
-
-                    KSK Ceremony 23
-Sign 2016Q1 ZSKs
-
-
-2015-08-13
-
-                    KSK Ceremony 22
-Sign 2015Q4 ZSKs; Introduce HSMs 3&4 (West); Replace CO1 (West)
-
-
-2015-04-09
-
-                    KSK Ceremony 21
-Sign 2015Q3 ZSKs; Introduce HSMs 3&4 (East)
-
-
-2015-01-22
-
-                    KSK Ceremony 20
-Sign 2015Q2 ZSKs
-
-
-2014-11-20
-
-                    KSK Ceremony 19
-Sign 2015Q1 ZSKs
-
-
-2014-08-14
-
-                    KSK Ceremony 18
-Sign 2014Q4 ZSKs; Replace CO5 (West)
-
-
-2014-04-17
-
-                    KSK Ceremony 17
-Sign 2014Q3 ZSKs
-
-
-2014-02-13
-
-                    KSK Ceremony 16
-Sign 2014Q2 ZSKs
-
-
-2013-10-24
-
-                    KSK Ceremony 15
-Sign 2014Q1 ZSKs
-
-
-2013-08-07
-
-                    KSK Ceremony 14
-Sign 2013Q4 ZSKs
-
-
-2013-05-02
-
-                    KSK Ceremony 13
-Sign 2013Q3 ZSKs; Replace CO5 (East)
-
-
-2013-02-12
-
-                    KSK Ceremony 12
-Sign 2013Q2 ZSKs
-
-
-2012-11-12
-
-                    KSK Ceremony 11
-Sign 2013Q1 ZSKs
-
-
-2012-07-26
-
-                    KSK Ceremony 10
-Sign 2012Q4 ZSKs
-
-
-2012-05-22
-
-                    KSK Ceremony 9
-Sign 2012Q3 ZSKs
-
-
-2012-02-02
-
-                    KSK Ceremony 8
-Sign 2012Q2 ZSKs
-
-
-2011-09-30
-
-                    KSK Ceremony 7
-Sign 2012Q1 ZSKs
-
-
-2011-07-20
-
-                    KSK Ceremony 6
-Sign 2011Q4 ZSKs
-
-
-2011-05-11
-
-                    KSK Ceremony 5
-Sign 2011Q3 ZSKs
-
-
-2011-02-07
-
-                    KSK Ceremony 4
-Sign 2011Q2 ZSKs
-
-
-2010-11-01
-
-                    KSK Ceremony 3
-Sign 2011Q1 ZSKs
-
-
-2010-07-12
-
-                    KSK Ceremony 2
-Instantiate El Segundo KMF; Import KSK-2010; Sign 2010Q4 ZSKs
-
-
-2010-06-16
-
-                    KSK Ceremony 1
-Instantiate Culpeper KMF; Generate KSK-2010; Sign 2010Q3 ZSKs
-
-
-
-
-
-Domain Names
-
-Overview
-Root Zone Management
-
-Overview
-Root Database
-Hint and Zone Files
-Change Requests
-Instructions & Guides
-Root Servers
-
-.INT Registry
-
-Overview
-Register/modify an .INT domain
-Eligibility
-
-.ARPA Registry
-IDN Practices Repository
-
-Overview
-
-Submit a table
-
-Root Key Signing Key (DNSSEC)
-
-Overview
-Trusts Anchors and Keys
-Key Signing Ceremonies
-Policies & Procedures
-Community Representatives
-Project Archive
-
-Reserved Domains
-
-
-
-
- + 
-None: 
- + 
-footer: 
-
-
-
-Domain Names
-
-
-Root Zone Registry
-.INT Registry
-.ARPA Registry
-IDN Repository
-
-
-
-
-Number Resources
-
-
-Abuse Information
-
-
-
-
-Protocols
-
-
-Protocol Registries
-Time Zone Database
-
-
-
-
-About Us
-
-
-Performance
-Reports
-Reviews
-Excellence
-Contact Us
-
-
-
-
-
-The IANA functions coordinate the Internet’s globally unique identifiers, and
-                are provided by Public Technical Identifiers, an affiliate of
-                ICANN.
-
-
-
-Privacy Policy
-Terms of Service
-
-
-
- + 
-None: 
- + 
-script: 
-$(document).ready(function() {
-	$("#nav_dom_idn_sub").hide()
-	$("#nav_dom_root_sub").hide()
-	$("#nav_dom_int_sub").hide()
-	$("#nav_dom_tools_sub").hide()
-	$("#nav_dom_dnssec").addClass("selected")
-	$("#nav_dom_dnssec_ceremonies").addClass("selected")
-});
- + 
-None: 
- + 
-Title,Url
-h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,9
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,9
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,5
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,5
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,8
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,5,0
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,0
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,0
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,5
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,7
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,9
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,7
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,9
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,7
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,1
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,1
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,3
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,1
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,4
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,4
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,8
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,8
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,z,c,k,z,a,h,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,1,1,b,5,b,s,3,a,9,a,j,6,g,.,h,t,m,l
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,2
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,0
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,3
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,9
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,3
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,4
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,8
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,7
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,2,2
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,5
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,4
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,3
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,2
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,2
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,k,g,b,e,c,h,t,v,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,l,c,j,6,a,y,a,9,e,s,c,7,a,.,h,t,m,l
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,g,i,s,t,r,i,e,s,/,a,g,r,e,e,m,e,n,t,s,.,h,t,m
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,9,t,4,b,1,1,y,i,5,a,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,d,e,b,a,0,a,d,.,h,t,m,l
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,o,p,i,c,s,/,i,d,n,/
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,8
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,0
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,1,7
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,3,5
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s,/,4,1
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,j,x,a,l,p,d,l,p,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
+h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
+Title: PRIVACY POLICY - ICANNh1:  PRIVACY POLICY
+h3:  This page is available in:
+h3:  Definitions
+h3:  Personal Information Collection
+h3:  Use of Personal Information
+h3:  Retention
+h3:  Sharing of Personal Information
+h3:  International Transfers
+h3:  Information Security and Integrity
+h3:  Do Not Track
+h3:  Exercise of Data Subject Rights
+h3:  Minors
+h3:  Revisions to our Privacy Policy
+h3:  Questions
+h3:  Who We Are
+h3:  Contact Us
+h3:  Accountability And Transparency
+h3:  Governance
+h3:  Help
+h3:  Data Protection
+span: Skip to main content + 
+header: Search ICANN.orgLog InSign UpGet StartedICANN for BeginnersFellowship ProgramNextGen@ICANN ProgramHistoryNews and MediaAnnouncementsBlogFor JournalistsPress ReleasesGlobal NewslettersICANN News SubscriptionsRegional ReportsPolicyDevelop PolicyOperational Design Phase (ODP)Implement PolicyPublic CommentPublic Comment HomeUpcoming ProceedingsOpen ProceedingsClosed ProceedingsAbout Public CommentOther Public ConsultationsResourcesBoard Activities and MeetingsAccountability MechanismsRegistrarsRegistry OperatorsDomain Name RegistrantsContractual ComplianceDomain Name Security ThreatsPrivacy and Proxy ServicesGovernment EngagementCareersComplaints OfficeI Need HelpCommunityEngagement CalendarQuicklinksBoard MeetingsData Protection and PrivacyDomain Name RegistrantsEngagement CalendarIANA ServicesICANN Acronyms and TermsNew gTLD Program Next RoundNew gTLDsPublic Technical Identifiers (PTI)Open DataQuestion About A Domain Name?Technology @ ICANN + 
+main: ResourcesAbout ICANNAcronyms and TermsCourses and LearningICANN for BeginnersParticipateWhat ICANN DoesEffect on the InternetWhat's Going On NowHow to ParticipateFellowship ProgramCommitteeTerms & ConditionsNextGen@ICANN ProgramPresident's CornerICANN Management Organization ChartStaffCareersIn FocusContinuityDNSSECStandardsIANA DNSSEC Root InformationTLD DNSSEC ReportRoot DeploymentDeployment GraphToolsTrainingKey CeremonyNewsBlog PostsPresentationsRelated SitesGNSO ImprovementsTravel SupportWHOIS Policy Review Team Recommendations - ImplementationFor JournalistsPress ReleasesResourcesBoard Activities and MeetingsAccountabilityAccountability MechanismsReconsiderationIndependent Review ProcessUpdating the IRPOmbudsmanAboutProgramFrameworkStandards of PracticeRespectful CommunicationReportsSpeechesLinksQuestionsEmpowered CommunityEmpowered Community AdministrationEmpowered Community Administration Mailing ListEmpowered Community CorrespondenceDocument DisclosureReviewsGetting StartedOrganizational ReviewsALACASOBoardccNSOGNSONominating CommitteeRSSACSSACTechnical Liaison GroupSpecific ReviewsAccountability & TransparencyRegistration Directory ServiceSecurity, Stability, and ResiliencyCompetition, Consumer Trust & Consumer ChoiceCCT MetricsExpected Standards of BehaviorEmployee Practices and ResourcesEnhancing ICANN Accountability – Work Stream 2 ImplementationGovernanceGovernance DocumentsGuidelinesArticles of IncorporationCurrentArchiveBylawsCurrent BylawsArchiveBoard Code of ConductBoard Conflicts of Interest PolicyBoard Statements of InterestLobbying Disclosures & Contribution ReportsSummary of Conflicts of Interest and Ethics Practices ReviewEvolving ICANN’s MSMAgreementsNTIA IANA Functions' Stewardship TransitionCall for Public Input: Draft Process to Develop the Proposal (8 April-8 May 2014Process to Develop the Proposal and Next StepsRegistryArchiveAffirmation of CommitmentsAOC TrackingccTLDPartnership Memorandums of UnderstandingRegistrarArchiveAnnual ReportsFinancialsFinancial ReportsPolicies, Guidelines and ProceduresPlanningStrategic PlanPresentationsRFPsLitigationNewsletterCorrespondence2022202120202019201820172016201520142013201220112010200920082007200620052004200320022001200019991998Quarterly ReportsGroups2023 ICANN CEO Search CommitteeRSSACCharterSSACRoleWork Plans & ActivitiesDocumentsGACAt-LargeASOccNSOGNSOTechnical Liaison GroupTechnical Experts Group (TEG)NomComCommittee's ChargePast NomComsCustomer Standing CommitteeRoot Zone Evaluation Review Committee (RZERC)BusinessCivil SocietyComplaints OfficeComplaints ReportDomain Name System AbuseContractual ComplianceAboutProgramsApproach & ProcessgTLD Registry ComplianceAccredited Registrar ComplianceAuditGeneral QuestionsComplaint Submission & Learn MoreReporting & Performance MeasurementNoticesArchivePerformance ReportsReportsOutreachRegistrarsAccreditation AgreementGlobal Amendments2023 Global Amendment to the RAARegistrar LibraryNews & CommunicationsHow to Become a RegistrarRegistrar ApplicationRegistrar Application InstructionsRegistrar TrainingChanges to Existing AccreditationAnnual Registrar Compliance CertificateBulk TransfersData Retention WaiverPurchasing an ICANN-Accredited RegistrarRegistrar Data Escrow ProgramRegistrar MergersRegistrar Name ChangesRegistrar Primary Contact UpdatesRegistry-Registrar Agreement (RRA) TerminationRenewing an Existing AccreditationTerminating an AccreditationTransferring (Assigning) an ICANN AccreditationPrivacy and Proxy Service ProvidersRegistrar ResourcesAdvisoriesAgreements & PoliciesPolicy StatementBilling Frequently Asked Questions (FAQ) for RegistrarsConsensus PoliciesContact ListDomain Name TransfersDomain Name Holder FAQsInter-Registrar Transfer InformationPolicyGeneral Operations Handbook for RegistrarsgTLD Accounts and Services TeamgTLD LifecycleNaming Services portalRegistration Data Access Protocol (RDAP)Registrar Data Escrow Reporting FAQRegistrar FAQsSecurity Response Waiver (SRW) Requests for RegistrarsWhois/Privacy Law ConflictsWhois-Related Policies and ProvisionsHistoryRegistry OperatorsAdvisories & Consensus PoliciesAdvisoriesConsensus PoliciesRegistry Service Evaluation Policy (RSEP)RSEP Implementation NotesPreliminary Determination of Competition IssuesReconciliationRSEP Announcements ArchiveNews & EventsCP SummitICANN News & MediaICANN Public Comment PageICANN Public Meetings CalendarRegistry AgreementsGlobal Amendments2023 Global Amendment to the Base New gTLD Registry Agreement2017 Global Amendment to the Base New gTLD Registry AgreementRegistry Agreements ArchiveProof of Concept ReportsTerminated Registry AgreementsRegistry ResourcesBulk TransfersData Protection and PrivacyEmergency Back-end Registry Operator (EBERO)gTLD Registry ContinuityContinuity ArchiveForm 6166 - U.S. Tax Residency Certification (TRC)Framework for Registry Operators to Respond to Security ThreatsGDD General Operations Handbook for Registry OperatorsgTLD Accounts and Services TeamgTLD JSON ReportsList of Top-Level DomainsMonthly Registry ReportsNaming Services portalNew gTLD ProgramNew gTLD Program Case StudiesNew gTLD Registry Operator CSV ReportRegistration Data Access Protocol (RDAP)Registry FAQsRegistry Listing PageRegistry System Testing (RST)Service Level Agreement (SLA) Monitoring System API SpecificationServices for Registry OperatorsAssignment of Registry Agreement or Registry Operator Change of ControlAssignment of Registry AgreementsCompleted Direct Change of ControlRegistry Operator Change of ControlContinued Operations Instrument (COI)Centralized Zone Data Service (CZDS)Community gTLD Change RequestsCross-Ownership Notification ServiceData EscrowICANN-Approved Registry Data Escrow AgentsRegistry Data Escrow Agent Change RequestsRegistry Data Escrow Agreement AmendmentsRegistry Data Escrow Agent ApplicationIDN Table Update and PublishMaterial Subcontracting Arrangement (MSA) ChangeNew gTLD RA RenewalsRegistry Agreement Termination ServiceRegistry Operator Name ChangeRSEP ProcessFast Track RSEP Process and Standard Authorization LanguageRSEP Process WorkflowTechnical Evaluation PanelRegistry Transition ProcessesEBERO Temporary Transition ProcessEBERO Transition Process - CommunicateEBERO Transition Process - DNSEBERO Transition Process - Data EscrowEBERO Transition Process - RDDSEBERO Transition Process - SRSProspective Registry Evaluation MatrixRegistry Transition Process with Proposed Successor - Check SupportRegistry Transition Process with Proposed Successor - CommunicateRegistry Transition Process with Proposed Successor - EvaluateRegistry Transition Process with Proposed SuccessorRegistry Transition Process with Request for Proposals - Check SupportRegistry Transition Process with Request for Proposals - CommunicateRegistry Transition Process with Request for Proposals - EvaluateRegistry Transition Process with Request for Proposals - RFPRegistry Transition Process with Request for ProposalsRemoval of Cross-Ownership RestrictionsReserved NamesTwo-Character ASCII LabelsTwo-Character ArchiveCountry & Territory NamesRRA AmendmentRRA Amendment ProcedureRRA Amendment with Temporary SpecificationRegistry-Registrar Agreement (RRA) TerminationRights Protection Mechanisms & Dispute Resolution ProceduresINGO Claims NotificationPDDRPPICDRPRRDRPTMCHTMCH RequirementsURSSecurity Response Waiver (SRW) Requests for Registry OperatorsDomain Name RegistrantsAbout Domain NamesICANN PoliciesRegistration Data PoliciesDomain Name IndustryRegistering Domain NamesManaging Domain NamesContact Information and WDRPSecurely Managing Your Domain NameTransferring Domain NamesRenewing Domain NamesRights and ResponsibilitiesSpam, Phishing, and Website ContentTrademark InfringementGDS MetricsIdentifier Systems Security, Stability and Resiliency (OCTO IS-SSR)IS-SSR Team BlogsSecurity TerminologyDocument ArchiveccTLDsBackground MaterialsAgreementsDelegationRoot Zone DatabaseModel MOUWorkshopsICANN and ISOInternationalized Domain NamesRoot Zone Label Generation Rules (LGR)Generation Panel UpdateMaximal Starting RepertoireProposals for Root Zone Label Generation RulesetIDN Variant TLD ImplementationLGR ToolsetIDN ccTLD Fast TrackIDN Implementation GuidelinesSecond-Level LGR ReferenceResourcesAnnouncements and Blogs PostsNew gTLD Program Next RoundUniversal Acceptance InitiativeMake your systems UA-readyUniversal Acceptance Steering Group (UASG)UA TrainingUA Readiness EvaluationsAnnouncements and Blogs PostsPolicyPolicy MissionPolicy Staff GoalsPresentationsGlobal AddressingIPv6 AllocationASN AllocationPost Exhaustion IPv4 AllocationNew RIRs CriteriaReview ProceduresPolicy UpdatesOperational Design Phase (ODP)ImplementationPublic CommentOpenUpcomingArchiveRoot Zone KSK RolloverTechnical FunctionsTech Day ArchiveICANN LocationsReport Security IssuesPGP KeysCertificate AuthorityRegistry LiaisonOmbudsmanI Need HelpDispute ResolutionDomain Name Dispute ResolutionCharter Eligibility Dispute Resolution PolicyProvidersRulesEligibility Requirements Dispute Resolution PolicyProvidersRulesIntellectual Property Defensive Registration Challenge PolicyProvidersRulesQualification Challenge PolicyProvidersRulesRestrictions Dispute Resolution PolicyProvidersRulesTransfer Dispute Resolution PolicyProvidersUniform Domain Name Dispute Resolution PolicyPolicy DocumentProvidersProvider Approval ProcessRulesPrincipal DocumentsProceedingsHistorical DocumentsTimelineName CollisionFAQ: IT ProfessionalsFAQ: RegistriesGuide for IT ProfessionalsRecommendations for New ccTLDsReport a ProblemRegistrar ProblemsWhois Data CorrectionIndependent Review ProcessRequest for ReconsiderationDocumentPRIVACY POLICYThis page is available in:EnglishالعربيةEspañolFrançaisPortuguêsPусский中文
+Last Updated: 5 March 2021
+[Redline from the previous version of our Privacy Policy] [PDF, 201 KB]
+The Internet Corporation for Assigned Names and Numbers (ICANN organization) respects the protection and privacy of Personal Information. This policy (Privacy Policy) and the Cookies Policy set out how ICANN organization, which for the purposes of this policy includes its affiliated organization Public Technical Identifiers (PTI) (collectively "we", "us", or "our"), and their managed or sponsored programs, will use and handle electronic information provided by or collected from individuals and what choices individuals have regarding the collection and use of the information. This Privacy Policy applies to all electronic collection and use of Personal Information, including via any mobile version of the websites, mobile applications, electronic mail, and other electronic services that link to this Privacy Policy (collectively, the Platforms). The term "User" or "you" refers to (i) individuals that provide their own Personal Information or Personal Information of others on behalf of such other persons to us and (ii) any organization where a person provides Personal Information of others on behalf of such organization.
+By using the Platforms, you (including any entity or person on whose behalf you are acting) agree to the terms of this Privacy Policy, as updated. If you do not agree with the practices described in this Privacy Policy, please do not provide us with Personal Information or interact with the Platforms.
+This Privacy Policy supplements, and does not supersede, any other privacy policy or statement from us relating to any of our unique programs.
+If you have any questions about this Privacy Policy or our Processing of your Personal Information as the Data Controller, please feel free to contact us at privacy@icann.org.
+This Privacy Policy covers the following key topics:
+
+Definitions
+Personal Information Collection
+Use of Personal Information
+Retention
+Sharing of Personal Information
+International Transfers
+Information Security and Integrity
+Do Not Track
+Exercise of Data Subject Rights
+Minors
+Revisions to our Privacy Policy
+Questions
+
+
+
+
+Definitions
+"Cookies" are small text files placed on your computer while visiting certain sites on the Internet used to identify your computer. Please visit our Cookies Policy to learn more about Cookies and certain functions and features on our Platforms.
+"Data Controller" means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Information.
+"Data Processor" means a natural or legal person, public authority, agency or any other body which Processes Personal Information on behalf of the Data Controller.
+"Non-Identifying Information" means information that may relate to an individual but does not by itself identify that individual. For example, Web Information is Non-Identifying Information, as is information such as gender, age, city, and physical location, when not linked with other Personal Information.
+"Personal Information" means any information relating to an identified or identifiable natural person, as defined under applicable law, such as name, home address, telephone number, picture, video recording, or email address.
+"Platforms" or "Platform" is as defined in our Terms of Service.
+
+
+
+Personal Information Collection
+This Privacy Policy applies to the following types of electronic information about Users or use of the Platforms:
+
+
+Personal Information submitted to us: This may be personal contact, identification, and location information, such as name, home or work address, personal or business email address, contact details such as your home, facsimile or mobile phone number, gender, age or date of birth, job title, country of residence, school, affiliation or organization, username, domain name (if personally identifiable), User's photo or image, government issued identification numbers or passport details, or emergency contact details that Users may submit in connection with any of our services or programs, including, for example, public comment submissions, program or service applications, community surveys, email list subscription, general enquiries, event registration, or online meetings. This also includes information provided to us on the Platforms that would constitute personal data under applicable law.
+
+
+Personal Information received from a third party: This may include Personal Information such as name and address for identity verification or to Process a request or an application submitted to us.
+
+
+Financial information: This may include financial account information or financial transaction information when participating in any of our services or programs where such information is requested or generated.
+
+
+Automatically logged use information: The Platforms may automatically record information that is sent by the User's browser or device when accessing and using the Platforms, which can be identifying or non-identifying. This information may include information such as IP address, browser type, internet service provider (ISP), date/time stamp, page viewed, operating system, mobile device information, clickstream information, preference information, and other similar information.
+
+
+Cookies and other tracking technologies: Cookies and other user tracking technologies devices may be stored on the User's computer when using the Platforms. For more information on our use of Cookies and other tracking technologies, see our Cookies Policy. You acknowledge the use of such tracking devices as noted in this Privacy Policy and the Cookies Policy, and consent to having such tracking devices stored on your computing devices.
+
+
+Recordings, Photographs, and Transcripts: We collect and maintain recordings, photographs, and/or transcripts of public and closed meetings, including through virtual meeting Platforms, which contain your Personal Information if you are a participant. Such recordings, photographs, and transcripts of these meetings are processed based on our legitimate interest of promoting accountability, openness, and transparency. Such recordings, photographs, and transcripts of these meetings, and any Personal Information contained in them, may be publicly accessible. When meetings and sessions are hosted by us and recorded, we will notify you and other participants of the recording before the start of each meeting. When we record a meeting, your Personal Information contained in any recording and related transcript will be processed in accordance with this Privacy Policy.
+This Policy does not apply to any meetings using a service that is not provided or supported by us, unless otherwise stated with respect to that service. Please note that individuals that elect to provide, host, or participate in a meeting not using a service not provided or supported by us are solely responsible for ensuring that participants give their informed consent to the recording, and that all legal requirements applicable to the collection, recording, and processing of Personal Information are fully satisfied.
+
+
+
+
+
+Use of Personal Information
+We will Process Personal Information only for fair, lawful, and legitimate reasons, including to:
+
+To improve our Platforms' performance, content, and services;
+To perform information analysis, compliance audits, data metrics, develop new services, and protect the Platforms and integrity of any of our services or programs;
+To create anonymized data sets to improve the Platforms' performance or in connection with our services or programs;
+To respond to User questions, comments, inquiries, feedback, including those concerning our services or programs or with respect to services provided by registry operators, accredited registrars, and data escrow agents;
+To assist in policy discussion, development activities, and performance of activities consistent with our functions;
+To administer participation or registration in any of our services, activities, programs, meetings, and Platforms, including sending electronic communications related to such participation or registration, and to manage and report on these participations, interactions and relationships;
+To assist with travel support for participants related to our events;
+To maintain archival records of a User's participation for historical and research purposes, subject to retention limits imposed by applicable laws;
+To process payments and fulfill a transaction between a User and us, if the User submits payment information in connection with any of our services or programs;
+To reimburse expenses related to any of our meetings or other events or programs;
+To perform relevant contractual obligations with the User and other third parties;
+To administer User's application for any of our services or programs;
+To publish a User's Personal Information such as his or her name and organization or affiliate on the Platforms;
+To publish a User's comments or feedback along with a User's name for the benefit of others and otherwise to comply with our accountability and transparency principles;
+To register and provide access to our meetings, which could involve processing of a User's dietary restrictions or disability information for special accommodations;
+To expedite and obtain approval for a User's visa application to attend our meetings;
+To share basic participant information (name, organization, affiliation) or other information the User voluntarily chooses to provide with other participants of the same meeting;
+To provide updates, news and other information regarding our programs, events and service delivery; and
+To provide information or a service requested by the User.
+
+We will also process your Personal Information with your consent, where required by applicable law, to send you newsletters, and provide you with marketing information concerning news, updates, and other information regarding our programs, events.
+Lastly, we will Process Personal Information to comply with applicable laws, rules, regulations, court orders, and law enforcement requests.
+We will not use Personal Information for any other purpose other than as set forth in this Privacy Policy.
+We will use Non-Identifying Information generally for the same purposes as with Personal Information, and to improve User services, store User's Platform preferences, track Platform use trends, improve the Platforms' performance, help maintain personal and device identity verification, Platform security, and measure effectiveness of electronic communications.
+
+
+
+Retention
+We will retain certain Personal Information stored on our servers in accordance with our general archival practices and as required or permitted by law.
+We will store the User's Personal Information only for as long as is required to fulfill the purposes set out above. However, where we are required by law to retain a User's Personal Information longer or where a User's Personal Information is required for us to assert or defend against legal claims, we will retain the User's Personal Information until the end of the relevant retention period or until the claims in question have been resolved.
+
+
+
+Sharing of Personal Information
+We may share certain Personal Information with contractors and other agents for the purpose of Processing this information on our behalf and providing other services to us or to the User on our behalf. These third parties include providers that provide services such as data analysis, email transmission, customer relationship management (CRM), IT security, cloud service providers, database management, hotel and other travel service, asset management solutions, consultants, and financial or legal advisors. We require that these parties agree to handle this information in compliance with appropriate confidentiality obligations and security measures. We also may publish some Personal Information on the Platforms in a manner that is viewable by our community members, as described in the relevant program description.
+We will provide Personal Information to such third parties, government authorities and agencies to:
+
+comply with applicable laws, regulations, legal process or enforceable governmental request;
+if permitted or required by law or in response to a law enforcement or other legal request;
+protect our or a third party's legal rights, including the enforcement of terms with Users;
+receive contracted services or use of licensed products from third party providers;
+comply with any court order or legal proceeding;
+comply with our accountability and transparency principles and disclosure policies;
+identify the User to anyone that the User sends a communication through the Platforms;
+effectuate a reorganization or organizational change resulting in the divestiture or transfer of any of our operation, unit, function, or asset to such third party;
+detect, prevent or otherwise address fraud or other criminal activity or errors, security or technical issues; or
+protect against imminent harm to our rights, property, or the safety of our users or the public as required or permitted by law.
+
+We will not sell or otherwise share any Personal Information with third parties for marketing purposes.
+
+
+
+International Transfers
+By using our Platforms or providing us with your Personal Information electronically, the User is directly transferring Personal Information and Non-Identifiable Information to us in the United States. The User's Personal Information also may be transferred and Processed in other countries where our staff or third-party service providers are located. The United States and such other countries may not have the same level of information protection as the User's jurisdiction.
+Whenever such transfers are by one of our location in a country outside the United States to another of our location in the United States, they are based on contractual commitments, such as the Standard Contractual Clauses (according to EU Commission Decision 87/2010/EC or any future replacement), or other applicable data transfer arrangements, in order to contractually provide that your Personal Information is subject to adequate levels of data protection. You may request further information concerning such contractual commitments by sending a request to privacy@icann.org.
+The User is solely responsible for compliance with any information protection or privacy obligations in the User's jurisdiction when using the Platforms or providing us with Personal Information. By submitting Personal Information, the User agrees to such Processing.
+
+
+
+Information Security and Integrity
+We will use reasonable industry standard safeguards (which may include physical, procedural and technical measures) to protect against the unauthorized disclosure of Personal Information it collects and holds. We will take reasonable steps to ensure that Personal Information collected is complete and relevant to its intended use.
+The Platforms contain links to other third-party websites, which are subject to the respective privacy policies of those third parties. We are not responsible for the privacy practices of such linked third-party sites, and their owners and operators.
+The Platforms may contain social media widgets including Twitter, Facebook and LinkedIn, and other features that may collect a User's Personal Information and Non-Identifying Information and may set Cookies on the User's devices unless the device or browser settings prevent such Cookies from being stored. Such social media widgets and features may be hosted by a third party. We are not responsible for the operation of such widgets and features, and any information collection will be subject to the privacy policy of the provider of such widgets and features, and not this Privacy Policy.
+Due to the open communication nature of the Internet, we cannot represent, warrant or guarantee that communications stored on our servers will be free from unauthorized access by third parties, loss, misuse, or alterations. While we will take reasonable and appropriate security measures to protect against unauthorized access, disclosure, alteration or destruction of Personal Information received, WE DISCLAIM ANY AND ALL LIABILITY FOR UNAUTHORIZED ACCESS OR USE OR COMPROMISE OF YOUR PERSONAL INFORMATION TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. USERS ARE ADVISED THAT THEY SUBMIT SUCH PERSONAL INFORMATION AT THEIR OWN RISK.
+
+
+
+Do Not Track
+Users' browsers may allow users to set a "Do Not track" preference. Unless otherwise stated, the Platforms do not honor "Do Not Track" requests.
+
+
+
+Exercise of Data Subject Rights
+Users may be entitled to obtain access to information on the Processing of Personal Information, to object to certain Processing, request information portability, and have their Personal Information rectified, deleted, or otherwise restricted in terms of Processing, in each case as permitted under applicable law. Users also may be entitled to withdraw any consent given with prospective effect with respect to the Processing of their Personal Information. Users can exercise these rights or learn more about the Processing of Personal Information by us, by sending a request to privacy@icann.org. Any request is subject to identity verification. All privacy-related access requests are taken seriously, and we will respond to request(s) as soon as reasonably practicable, but in any case, within the legally required period of time. Please note that certain Personal Information may be exempt from such access, correction, objection, or deletion rights pursuant to local laws.
+If you are not satisfied with our response or believe that your Personal Data is not being Processed in accordance with the law, you also may contact or lodge a complaint with the competent supervisory authority or seek other remedies under applicable law.
+If a User no longer wishes to receive certain electronic communications from us, the User may opt-out from such communication by following the unsubscribe instructions at the bottom of such communication or by accessing any available preference setting functionality in the Platforms.
+
+
+
+Minors
+We do not knowingly collect or require Personal Information from children under the age of 13. If you believe your child has provided us with Personal Information, please notify us by email at privacy@icann.org.
+
+
+
+Revisions to our Privacy Policy
+We reserve the right to change this Privacy Policy at any time. Any changes we make will be posted on this page. If we make material changes to how we treat your Personal Information, we will notify you. The date this Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have a deliverable email address for you, and for periodically monitoring and reviewing any updates to this Privacy Policy. Your continued use of our Platforms after such amendments will be deemed your acknowledgement of these changes to this Privacy Policy.
+
+
+
+Questions
+Should you have any questions or concerns about this Privacy Policy and our privacy practices, you may contact us at privacy@icann.org.
+
+
+ + 
+footer: ICANN is not responsible for profile content or verification of user details.YouTubeTwitter  LinkedInFlickrFacebook  NewslettersCommunity WikiICANN Blog Who We AreGet StartedICANN LearnParticipateDiversity at ICANNGroupsBoardPresident's CornerStaffCareersPublic ResponsibilityContact UsLocationsI Need HelpReport Security IssuesCertificate AuthorityRegistry LiaisonOmbudsmanComplaints OfficeFor JournalistsAccountability And TransparencyAccountability MechanismsDocument DisclosureIndependent Review ProcessRequest for ReconsiderationEmpowered CommunityEmployee Anonymous Hotline Policy and ProceduresGovernanceGovernance DocumentsAgreementsOrganizational ReviewsSpecific ReviewsAnnual ReportFinancialsPlanningRFPsLitigationCorrespondenceHelpDispute ResolutionDomain Name Dispute ResolutionName CollisionICANN LookupData ProtectionData Privacy PracticesPrivacy PolicyTerms of ServiceCookies Policy© Internet Corporation for Assigned Names and Numbers.Privacy PolicyTerms of ServiceCookies Policy + 
+script:  + 
+script:  + 
+script:  + 
+div: A note about our terms of service:We have updated our electronic terms of service to provide greater transparency and align with laws applicable to us. Learn more.This site uses cookies to deliver an efficient user experience and to help us see how the site is used. Learn more.OK + 
+div: Domain Name SystemInternationalized Domain Name ,IDN,"IDNs are domain names that include characters used in the local representation of languages that are not written with the twenty-six letters of the basic Latin alphabet ""a-z"". An IDN can contain Latin letters with diacritical marks, as required by many European languages, or may consist of characters from non-Latin scripts such as Arabic or Chinese. Many languages also use other types of digits than the European ""0-9"". The basic Latin alphabet together with the European-Arabic digits are, for the purpose of domain names, termed ""ASCII characters"" (ASCII = American Standard Code for Information Interchange). These are also included in the broader range of ""Unicode characters"" that provides the basis for IDNs. The ""hostname rule"" requires that all domain names of the type under consideration here are stored in the DNS using only the ASCII characters listed above, with the one further addition of the hyphen ""-"". The Unicode form of an IDN therefore requires special encoding before it is entered into the DNS. The following terminology is used when distinguishing between these forms: A domain name consists of a series of ""labels"" (separated by ""dots""). The ASCII form of an IDN label is termed an ""A-label"". All operations defined in the DNS protocol use A-labels exclusively. The Unicode form, which a user expects to be displayed, is termed a ""U-label"". The difference may be illustrated with the Hindi word for ""test"" — परीका — appearing here as a U-label would (in the Devanagari script). A special form of ""ASCII compatible encoding"" (abbreviated ACE) is applied to this to produce the corresponding A-label: xn--11b5bs1di. A domain name that only includes ASCII letters, digits, and hyphens is termed an ""LDH label"". Although the definitions of A-labels and LDH-labels overlap, a name consisting exclusively of LDH labels, such as""icann.org"" is not an IDN." + 
+script:  + 
+script: $(document).on("click", ".js-expand-menu", function() {
+  $this = $(this);
+  $ul = $this.closest("li").find("ul").first();
+  $link = $this.siblings().first()
+
+  if ($link.hasClass('is-opened')) {
+    $ul.slideUp('fast', 'easeInOutQuart')
+    $this.removeClass("js-collapsibleCollapsed")
+    $link.removeClass('is-opened')
+    $this.toggleClass('arrow-expanded')
+  } else {
+    // need to have a native hide call and remove the hidden class so sliding works
+    $ul.hide()
+    $ul.removeClass('hidden')
+    $this.addClass("js-collapsibleCollapsed")
+    $link.addClass('is-opened')
+    $this.toggleClass('arrow-expanded')
+    $ul.slideDown('fast', 'easeInOutQuart')
+  }
+}); + 
+script: $(document).ready(function(){
+  $(".youku").addClass('youkublue')
+  $(".youku").hover(function() {
+    $(this).addClass('youkuwhite')
+    $(this).removeClass('youkublue')
+  }); 
+  $("a.youku-toggle").on("mouseover", function() {
+    $(".youku").addClass('youkuwhite');
+    $(".youku").removeClass('youkublue');
+  }).on("mouseout", function() {
+    $(".youku").addClass('youkublue');
+    $(".youku").removeClass('youkuwhite');
+  });
+});  + 
+Title,Url
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,e,w,s,/,a,n,n,o,u,n,c,e,m,e,n,t,-,2,0,0,7,-,0,3,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,f,p,-,c,h,e,c,k,-,s,u,p,p,o,r,t,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,n,e,w,s,/,r,f,p,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,g,o,v,e,r,n,m,e,n,t,-,e,n,g,a,g,e,m,e,n,t
+h,t,t,p,s,:,/,/,f,e,a,t,u,r,e,s,.,i,c,a,n,n,.,o,r,g,/,c,a,l,e,n,d,a,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,n,n,u,a,l,-,r,e,p,o,r,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,1,1,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,s,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,r,s,s,a,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p,/,d,i,s,p,u,t,e,-,r,e,s,o,l,u,t,i,o,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,1,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,n,s,f,e,r,r,i,n,g,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,l,g,r,-,p,r,o,p,o,s,a,l,s,-,2,0,1,5,-,1,2,-,0,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,f,p,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,l,i,s,t,i,n,g,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,c,c,n,s,o
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,d,e,-,o,f,-,c,o,n,d,u,c,t,-,2,0,2,3,-,0,1,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,c,c,r,e,d,i,t,a,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,n,e,w,-,d,o,m,a,i,n,-,n,a,m,e,-,2,0,1,8,-,1,2,-,0,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,t,l,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,o,m,a,i,n,-,n,a,m,e,-,r,e,g,i,s,t,r,a,n,t,s,-,2,0,1,7,-,0,6,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,e,l,l,o,w,s,h,i,p,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,d,a,p,-,2,0,1,7,-,0,9,-,0,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,d,r,p,-,2,0,1,6,-,0,6,-,0,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,8,-,2,0,1,9,-,0,1,-,0,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,f,p,-,e,v,a,l,u,a,t,e,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,a,s,t,-,t,r,a,c,k,-,r,s,e,p,-,p,r,o,c,e,s,s,-,a,u,t,h,o,r,i,z,a,t,i,o,n,-,l,a,n,g,u,a,g,e,-,2,0,1,9,-,0,6,-,1,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,y,-,o,p,e,r,a,t,o,r,-,s,e,r,v,i,c,e,s,-,2,0,1,7,-,1,0,-,0,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,e,d,r,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,2,1,-,2,0,2,2,-,0,1,-,0,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,i,e,s,-,4,6,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,p,o,s,e,d,-,s,u,c,c,e,s,s,o,r,-,c,o,m,m,u,n,i,c,a,t,e,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,i,v,i,l,-,s,o,c,i,e,t,y,-,2,0,1,6,-,0,5,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,d,a,t,a,-,e,s,c,r,o,w,-,s,e,r,v,i,c,e,s,-,e,n
+h,t,t,p,:,/,/,s,t,a,t,s,.,r,e,s,e,a,r,c,h,.,i,c,a,n,n,.,o,r,g,/,d,n,s,/,t,l,d,_,r,e,p,o,r,t,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,n,s,-,s,e,c,u,r,i,t,y,-,t,h,r,e,a,t,-,m,i,t,i,g,a,t,i,o,n,-,2,0,2,1,-,0,7,-,1,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,o,l,i,c,y,#,h,o,w,_,i,s,_,p,o,l,i,c,y,_,d,e,v,e,l,o,p,e,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,h,e,l,p,-,2,0,1,2,-,0,2,-,0,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,o,l,i,c,y,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,c,h,e,d,u,l,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,g,-,2,0,1,7,-,0,5,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,f,f,e,c,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,a,s,t,-,t,r,a,c,k,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,p,a,r,t,i,c,i,p,a,t,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,c,e,e,d,i,n,g,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,n,e,w,s,/,l,i,t,i,g,a,t,i,o,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,t,t,p,-,s,r,s,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,1,4,-,2,0,1,4,-,0,1,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,o,n,a,l,-,r,e,p,o,r,t,s,-,2,0,2,1,-,2,0,2,1,-,0,8,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,0,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,l,i,t,i,g,a,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,d,a,t,a,-,e,s,c,r,o,w,-,s,e,r,v,i,c,e,-,e,s,c,r,o,w,-,a,g,e,n,t,-,a,g,r,e,e,m,e,n,t,-,a,m,e,n,d,m,e,n,t,-,r,e,q,u,e,s,t,s,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,c,t,-,m,e,t,r,i,c,s,-,2,0,1,6,-,0,6,-,2,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,t,e,n,t,i,o,n,-,2,0,1,3,-,0,9,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,q,c,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,o,v,e,r,n,a,n,c,e,/,g,o,v,e,r,n,a,n,c,e,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,t,l,d,-,r,e,g,i,s,t,r,y,-,a,g,r,e,e,m,e,n,t,-,t,e,r,m,i,n,a,t,i,o,n,-,2,0,1,5,-,1,0,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,e,s,s,-,2,0,1,4,-,0,3,-,1,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,l,o,b,b,y,i,n,g,-,d,i,s,c,l,o,s,u,r,e,s,-,c,o,n,t,r,i,b,u,t,i,o,n,s,-,2,0,1,5,-,1,1,-,1,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,u,d,i,t,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,f,i,l,e,s,/,1,2,2,5,7,2,7,-,2,0,1,9,-,0,9,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,n,c,i,p,a,l,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,p,-,s,e,r,v,i,c,e,s,-,2,0,1,7,-,0,8,-,3,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,a,b,o,u,t,/,a,n,n,u,a,l,-,r,e,p,o,r,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,2,2,-,2,0,2,3,-,0,1,-,1,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,o,o,l,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,y,-,a,g,r,e,e,m,e,n,t,-,a,s,s,i,g,n,m,e,n,t,-,d,i,r,e,c,t,-,c,h,a,n,g,e,s,-,o,f,-,c,o,n,t,r,o,l,-,2,0,1,7,-,0,1,-,2,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,i,-,2,0,1,5,-,0,9,-,2,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,o,i,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,s,-,s,s,r,-,b,l,o,g,s,-,2,0,1,5,-,1,2,-,1,6,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,2,0,2,1,-,0,3,-,0,5,-,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,f,i,n,a,n,c,i,a,l,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,n,n,o,u,n,c,e,m,e,n,t,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,c,o,n,c,i,l,i,a,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,/,o,t,h,e,r,-,p,u,b,l,i,c,-,c,o,n,s,u,l,t,a,t,i,o,n,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,s,e,p,-,2,0,1,4,-,0,2,-,1,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,a,s,g,-,2,0,2,2,-,0,5,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,e,l,e,g,a,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,r,m,s,-,c,o,n,d,i,t,i,o,n,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,b,e,n,e,f,i,t,s,-,2,0,1,3,-,0,9,-,1,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,a,m,e,-,c,o,l,l,i,s,i,o,n,-,2,0,1,3,-,1,2,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,x,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,o,m,c,o,m
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,s,s,a,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p,/,p,r,i,v,a,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,e,t,-,u,a,-,r,e,a,d,y,-,2,0,2,2,-,0,5,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,l,g,r,-,t,o,o,l,s,e,t,-,2,0,1,5,-,0,6,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,n,t,r,a,c,t,e,d,-,p,a,r,t,y,-,c,o,m,m,u,n,i,c,a,t,i,o,n,s,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,o,m,m,u,n,i,t,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,o,w,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,b,o,u,t,-,2,0,1,4,-,1,0,-,1,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,r,s,-,2,0,1,4,-,0,1,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,m,a,n,a,g,e,m,e,n,t,-,o,r,g,a,n,i,z,a,t,i,o,n,-,c,h,a,r,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,2,0,-,2,0,2,1,-,0,1,-,0,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,f,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,l,o,b,a,l,-,a,d,d,r,e,s,s,i,n,g,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,4,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,2,0,2,1,-,0,3,-,0,5,-,r,u
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,c,-,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,7,-,0,5,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,a,m,e,-,c,o,l,l,i,s,i,o,n,-,r,o,-,f,a,q,s,-,2,0,1,4,-,0,8,-,0,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,s,p,e,c,i,f,i,c,-,r,e,v,i,e,w,s,/,c,c,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,e,r,-,d,o,m,a,i,n,-,n,a,m,e,-,2,0,1,7,-,0,6,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,n,e,w,s,/,i,n,-,f,o,c,u,s,/,a,c,c,o,u,n,t,a,b,i,l,i,t,y,/,m,e,c,h,a,n,i,s,m,s
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,2,0,2,1,-,0,3,-,0,5,-,a,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,o,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,o,o,t,-,z,o,n,e,-,l,g,r,-,2,0,1,5,-,0,6,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,r,m,i,n,a,t,i,n,g,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,a,o,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,a,l,a,c
+h,t,t,p,:,/,/,w,w,w,.,f,l,i,c,k,r,.,c,o,m,/,p,h,o,t,o,s,/,i,c,a,n,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,5,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,m,i,t,t,e,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,o,d,e,l,-,m,o,u,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,r,p,-,q,u,e,s,t,i,o,n,s,-,2,0,1,0,-,0,6,-,1,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,i,n,i,n,g,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,1,9,9,9,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,1,3,-,2,0,1,4,-,0,1,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,p,l,a,i,n,t,s,-,o,f,f,i,c,e,-,2,0,1,7,-,0,4,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,t,r,a,i,n,i,n,g,-,r,e,s,o,u,r,c,e,s,-,2,0,1,5,-,0,9,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,s,o,u,r,c,e,s,/,c,o,m,p,l,i,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,e,c,o,n,d,-,l,e,v,e,l,-,l,g,r,-,2,0,1,5,-,0,6,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,n,s,i,t,i,o,n,-,p,r,o,c,e,s,s,e,s,-,2,0,1,3,-,0,4,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,s,p,e,c,t,i,v,e,-,e,v,a,l,u,a,t,i,o,n,-,2,0,1,3,-,0,4,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,a,-,t,r,a,i,n,i,n,g,-,2,0,2,2,-,0,5,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,i,n,a,n,c,i,a,l,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,n,t,a,c,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,n,n,o,u,n,c,e,m,e,n,t,s,-,2,0,1,4,-,0,2,-,1,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,a,r,t,n,e,r,s,h,i,p,-,m,o,u,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,o,c,u,m,e,n,t,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,m,o,v,a,l,-,c,r,o,s,s,-,o,w,n,e,r,s,h,i,p,-,2,0,1,2,-,0,2,-,2,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,i,-,2,0,1,8,-,0,7,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,i,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,o,d,p,-,2,0,2,1,-,0,4,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,c,t,l,d,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,m,e,e,t,i,n,g,s,.,i,c,a,n,n,.,o,r,g,/,e,n,/,c,a,l,e,n,d,a,r, 
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,y,-,r,e,s,o,u,r,c,e,s,-,2,0,1,7,-,0,9,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,g,n,s,o,.,i,c,a,n,n,.,o,r,g,/,e,n,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,l,o,b,a,l,-,a,m,e,n,d,m,e,n,t,-,2,0,2,3,-,2,0,2,2,-,1,2,-,2,2,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,2,0,2,1,-,0,3,-,0,5,-,z,h
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,u,l,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p,/,d,n,d,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,g,i,s,t,r,a,r,-,l,i,b,r,a,r,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,d,v,i,s,o,r,i,e,s,-,p,o,l,i,c,i,e,s,-,2,0,1,7,-,1,0,-,0,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,p,o,r,t,s,-,9,6,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,h,a,n,g,e,-,o,f,-,c,o,n,t,r,o,l,-,2,0,1,5,-,1,1,-,3,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,d,n,-,s,e,r,v,i,c,e,-,r,e,q,u,e,s,t,s,-,2,0,2,1,-,0,6,-,0,7,-,e,n,/,#,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,b,7,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p,/,n,a,m,e,-,c,o,l,l,i,s,i,o,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,e,w,s,/,a,n,n,o,u,n,c,e,m,e,n,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,o,m,c,o,m,-,c,h,a,r,g,e,-,2,0,1,8,-,0,2,-,1,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,k,s,k,-,r,o,l,l,o,v,e,r,-,2,0,1,6,-,0,5,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,o,c,u,m,e,n,t,a,r,y,-,i,n,f,o,r,m,a,t,i,o,n,-,d,i,s,c,l,o,s,u,r,e,-,p,o,l,i,c,y,-,2,0,2,3,-,0,3,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,a,s,o
+h,t,t,p,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,t,w,o,-,c,h,a,r,a,c,t,e,r,-,l,a,b,e,l,s,-,a,r,c,h,i,v,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,c,t,l,d,s,-,2,1,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,h,o,i,s,-,p,r,i,v,a,c,y,-,c,o,n,f,l,i,c,t,s,-,p,r,o,c,e,d,u,r,e,-,2,0,0,8,-,0,1,-,1,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,t,l,d,-,l,i,f,e,c,y,c,l,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,a,r,t,i,c,i,p,a,t,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,l,i,n,k,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,7,-,2,0,1,8,-,0,1,-,0,3,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p,/,n,a,m,e,-,c,o,l,l,i,s,i,o,n,/,r,e,p,o,r,t,-,p,r,o,b,l,e,m,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,a,n,a,g,e,-,d,o,m,a,i,n,-,n,a,m,e,-,2,0,1,7,-,0,6,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,t,a,f,f,-,g,o,a,l,s,-,2,0,1,2,-,0,8,-,2,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,g,r,a,m,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,m,c,h,-,r,e,q,u,i,r,e,m,e,n,t,s,-,2,0,1,4,-,0,1,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,h,a,r,t,e,r,-,2,0,1,3,-,0,7,-,1,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,s,p
+h,t,t,p,s,:,/,/,a,t,l,a,r,g,e,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,s,y,s,t,e,m,/,f,i,l,e,s,/,f,i,l,e,s,/,r,s,e,p,-,p,r,o,c,e,s,s,-,w,o,r,k,f,l,o,w,-,1,4,j,u,n,1,9,-,e,n,.,p,d,f
+h,t,t,p,s,:,/,/,l,o,o,k,u,p,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,o,v,e,r,n,a,n,c,e,/,b,y,l,a,w,s,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,h,i,s,t,o,r,i,c,a,l,-,2,f,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,:,/,/,l,e,a,r,n,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,r,a,m,e,w,o,r,k,-,r,e,g,i,s,t,r,y,-,o,p,e,r,a,t,o,r,-,r,e,s,p,o,n,d,-,s,e,c,u,r,i,t,y,-,t,h,r,e,a,t,s,-,2,0,1,7,-,1,0,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,e,w,s,/,b,l,o,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,d,r,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,p,m,-,d,r,p,-,2,0,1,7,-,1,0,-,0,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,t,i,o,n,-,d,a,t,a,-,2,0,2,1,-,0,8,-,1,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,o,r,k,p,l,a,n,-,a,c,t,i,v,i,t,i,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,a,a,-,a,p,p,l,i,c,a,t,i,o,n,-,i,n,s,t,r,u,c,t,i,o,n,s,-,2,0,2,1,-,0,4,-,1,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,s,e,p,-,i,m,p,l,e,m,e,n,t,a,t,i,o,n,-,n,o,t,e,s,-,2,0,1,9,-,0,4,-,3,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,g,n,s,o
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,o,v,e,r,n,a,n,c,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,n,i,v,e,r,s,a,l,-,a,c,c,e,p,t,a,n,c,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,i,c,a,n,n,-,a,c,r,o,n,y,m,s,-,a,n,d,-,t,e,r,m,s,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,r,o,u,p,s,-,2,0,1,2,-,0,2,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,6,5,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,n,s,f,e,r,-,p,o,l,i,c,y,-,2,0,1,6,-,0,6,-,0,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,n,d,r,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,v,e,l,-,s,u,p,p,o,r,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,r,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,o,m,a,i,n,-,n,a,m,e,-,i,n,d,u,s,t,r,y,-,2,0,1,7,-,0,6,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,p,s,u,m,m,i,t,-,2,0,2,2,-,0,9,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,o,r,k,-,s,t,r,e,a,m,-,2,-,i,m,p,l,e,m,e,n,t,a,t,i,o,n,-,2,0,2,2,-,0,5,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,o,l,i,c,y,-,0,1,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,s,s,i,g,n,m,e,n,t,-,r,e,g,i,s,t,r,y,-,a,g,r,e,e,m,e,n,t,-,r,e,g,i,s,t,r,y,-,o,p,e,r,a,t,o,r,-,c,h,a,n,g,e,-,c,o,n,t,r,o,l,-,2,0,2,2,-,1,0,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,r,a,f,t,-,p,r,o,p,o,s,a,l,-,2,0,1,4,-,0,4,-,0,8,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,2,0,2,1,-,0,3,-,0,5,-,p,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,b,e,g,i,n,n,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,c,e,s,s,-,n,e,x,t,-,s,t,e,p,s,-,2,0,1,4,-,0,6,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,a,m,e,-,c,h,a,n,g,e,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,m,o,s,a,p,i,-,s,p,e,c,i,f,i,c,a,t,i,o,n,.,p,d,f
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,n,t,i,n,u,i,t,y,-,7,7,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,a,-,a,n,n,o,u,n,c,e,m,e,n,t,s,-,b,l,o,g,s,-,2,0,2,1,-,0,2,-,0,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,i,c,a,n,n,-,a,c,r,o,n,y,m,s,-,a,n,d,-,t,e,r,m,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,n,-,f,o,c,u,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,s,y,s,t,e,m,/,f,i,l,e,s,/,f,i,l,e,s,/,g,d,d,-,o,p,s,-,h,a,n,d,b,o,o,k,-,r,e,g,i,s,t,r,y,-,o,p,e,r,a,t,o,r,s,-,1,5,a,u,g,1,8,-,e,n,.,p,d,f
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,a,m,e,-,h,o,l,d,e,r,-,f,a,q,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,s
+h,t,t,p,s,:,/,/,a,c,c,o,u,n,t,.,i,c,a,n,n,.,o,r,g,/,a,u,t,h,o,r,i,z,e,?,r,e,d,i,r,e,c,t,_,u,r,i,=,h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,o,a,u,t,h,&,c,l,i,e,n,t,_,i,d,=,0,o,a,9,o,9,k,9,r,p,8,V,U,c,y,J,L,2,p,7,&,n,o,n,c,e,=,6,f,5,3,9,8,b,a,-,8,a,6,2,-,4,3,7,0,-,9,9,a,8,-,e,0,0,d,9,8,1,b,6,9,2,d,&,s,t,a,t,e,=,h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,w,o,-,c,h,a,r,a,c,t,e,r,-,l,a,b,e,l,s,-,2,0,1,6,-,1,2,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,s,/,a,r,c,h,i,v,e
+h,t,t,p,:,/,/,m,m,.,i,c,a,n,n,.,o,r,g,/,p,i,p,e,r,m,a,i,l,/,e,c,a,d,m,i,n,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,c,h,-,d,a,y,-,a,r,c,h,i,v,e,-,2,0,1,5,-,1,0,-,1,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,e,s,i,d,e,n,t,s,a,n,d,c,e,o,-,c,o,r,n,e,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,u,r,r,e,n,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,o,r,g,a,n,i,z,a,t,i,o,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,t,t,p,-,c,o,m,m,u,n,i,c,a,t,e,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,g,i,s,t,r,i,e,s,/,g,t,l,d,s,/,v,2,/,g,t,l,d,s,.,j,s,o,n, , 
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,1,0,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,p,d,r,c,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,l,d,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,r,a,m,e,w,o,r,k,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,f,p,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,o,l,i,c,y,/,i,m,p,l,e,m,e,n,t,a,t,i,o,n, 
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,c,-,a,d,m,i,n,i,s,t,r,a,t,i,o,n,-,2,0,1,7,-,0,5,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,d,a,t,a,-,e,s,c,r,o,w,-,r,e,p,o,r,t,i,n,g,-,f,a,q,-,2,0,1,9,-,0,2,-,1,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,q,u,a,r,t,e,r,l,y,-,r,e,p,o,r,t,s,-,2,0,1,4,-,1,1,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,e,o,-,s,e,a,r,c,h,-,2,0,2,3,-,2,0,2,3,-,0,3,-,1,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,f,p,2,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,p,l,i,a,n,c,e,-,r,e,p,o,r,t,s,-,2,0,1,9,-,2,0,1,9,-,0,9,-,1,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,n,o,m,c,o,m
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,2,-,0,9,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,s,#,o,p,e,n,-,p,u,b,l,i,c
+h,t,t,p,s,:,/,/,c,o,m,m,u,n,i,t,y,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,r,a,-,t,e,r,m,i,n,a,t,i,o,n,-,2,0,2,2,-,0,2,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,2,0,1,3,-,0,4,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,r,a,-,a,m,e,n,d,m,e,n,t,-,p,r,o,c,e,d,u,r,e,-,g,t,l,d,-,r,e,g,i,s,t,r,a,t,i,o,n,-,d,a,t,a,-,s,p,e,c,s,-,2,0,1,8,-,0,7,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,l,o,b,a,l,-,p,o,l,i,c,y,-,a,s,n,-,b,l,o,c,k,s,-,2,0,1,0,-,0,9,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,s,p,-,r,e,g,i,s,t,r,a,r,s,-,2,0,1,8,-,0,3,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,r,w,-,r,e,g,i,s,t,r,i,e,s,-,r,e,q,u,e,s,t,s,-,2,0,2,2,-,0,5,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,s,y,s,t,e,m,/,f,i,l,e,s,/,f,i,l,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,r,e,d,l,i,n,e,-,0,5,m,a,r,2,1,-,e,n,.,p,d,f
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,o,v,e,r,n,a,n,c,e,-,g,u,i,d,e,l,i,n,e,s,-,2,0,1,8,-,0,7,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,e,w,-,r,i,r,s,-,c,r,i,t,e,r,i,a,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,r,m,i,n,a,t,e,d,-,r,e,g,i,s,t,r,y,-,a,g,r,e,e,m,e,n,t,s,-,2,0,1,6,-,0,3,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,l,a,n,n,i,n,g,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,c,a,n,n,-,i,s,o,-,3,1,6,6,-,2,0,1,2,-,0,5,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,p,d,a,t,e,-,2,0,1,4,-,0,2,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,f,a,q,s,-,8,4,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,7,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,6,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,h,o,i,s,-,p,o,l,i,c,i,e,s,-,p,r,o,v,i,s,i,o,n,s,-,2,0,1,3,-,0,4,-,1,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,l,o,b,a,l,-,a,m,e,n,d,m,e,n,t,-,2,0,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,d,v,i,s,o,r,i,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,g,r,o,u,p,s,/,b,o,a,r,d,/,g,o,v,e,r,n,a,n,c,e,/,r,e,c,o,n,s,i,d,e,r,a,t,i,o,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,s,-,0,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,5,9,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,f,a,q,s,-,2,0,0,4,-,1,1,-,0,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,t,i,c,l,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,:,/,/,a,o,c,t,r,a,c,k,i,n,g,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,a,a,-,a,p,p,l,i,c,a,t,i,o,n,-,2,0,2,1,-,0,4,-,1,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,r,d,r,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,c,h,n,i,c,a,l,-,f,u,n,c,t,i,o,n,s,-,2,0,1,5,-,1,0,-,1,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,c,t,l,d,-,m,i,t,i,g,a,t,i,o,n,-,2,0,1,4,-,1,0,-,0,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,s,a,c,-,r,o,l,e,-,2,0,1,8,-,0,2,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,m,p,l,o,y,e,e,-,a,n,o,n,y,m,o,u,s,-,h,o,t,l,i,n,e,-,p,o,l,i,c,y,-,p,r,o,c,e,d,u,r,e,s,-,w,h,i,s,t,l,e,b,l,o,w,e,r
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,i,v,a,c,y,-,p,o,l,i,c,y,-,2,0,2,1,-,0,3,-,0,5,-,f,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,n,s,s,e,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,t,t,p,-,r,d,d,s,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,o,m,p,l,i,a,n,c,e,/,c,o,m,p,l,a,i,n,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,d,d,r,p,-,2,0,1,4,-,0,1,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,d,r,p,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,b,o,a,r,d,-,a,c,t,i,v,i,t,i,e,s,-,a,n,d,-,m,e,e,t,i,n,g,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,u,b,l,i,c,-,r,e,s,p,o,n,s,i,b,i,l,i,t,y,-,s,u,p,p,o,r,t,/,n,e,x,t,g,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,s,r,-,2,0,1,5,-,0,6,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,n,e,w,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,h,a,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,5,7,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,e,s,s,-,r,e,l,e,a,s,e,s,-,2,0,2,3,-,2,0,2,3,-,0,1,-,3,1,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,f,a,c,e,b,o,o,k,.,c,o,m,/,i,c,a,n,n,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,6,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,r,a,-,a,m,e,n,d,m,e,n,t,-,p,r,o,c,e,d,u,r,e,-,2,0,1,5,-,0,4,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,g,r,e,e,m,e,n,t,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,d,e,m,a,r,k,-,i,n,f,r,i,n,g,e,m,e,n,t,-,2,0,1,7,-,0,6,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,n,e,w,g,t,l,d,s,.,i,c,a,n,n,.,o,r,g,/,e,n,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,5,-,2,0,1,6,-,0,1,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,p,o,r,t,-,s,e,c,u,r,i,t,y,-,i,s,s,u,e,s,-,2,0,1,8,-,0,5,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,a,m,e,-,c,o,l,l,i,s,i,o,n,-,i,t,-,p,r,o,s,-,f,a,q,s,-,2,0,1,4,-,0,8,-,0,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,p,o,s,e,d,-,s,u,c,c,e,s,s,o,r,-,e,v,a,l,u,a,t,e,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,t,t,p,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,e,s,e,n,t,a,t,i,o,n,s,-,2,0,1,2,-,0,8,-,2,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,d,p,r,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,r,w,-,r,e,g,i,s,t,r,a,r,s,-,r,e,q,u,e,s,t,s,-,2,0,2,1,-,0,8,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,n,s,f,e,r,r,i,n,g,-,y,o,u,r,-,d,o,m,a,i,n,-,n,a,m,e,-,2,0,1,7,-,1,0,-,1,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,e,s,i,d,e,n,t,s,-,c,o,r,n,e,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,d,a,t,a,-,e,s,c,r,o,w,-,s,e,r,v,i,c,e,-,e,s,c,r,o,w,-,a,g,e,n,t,-,a,p,p,l,i,c,a,t,i,o,n,-,r,e,q,u,e,s,t,s,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,p,a,m,-,p,h,i,s,h,i,n,g,-,2,0,1,7,-,0,6,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,a,d,d,i,t,i,o,n,a,l,-,r,e,s,o,u,r,c,e,s,-,2,0,1,8,-,0,5,-,2,4,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,a,-,e,v,a,l,u,a,t,i,o,n,s,-,2,0,2,2,-,0,5,-,0,2,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,d,a,t,a,p,r,o,t,e,c,t,i,o,n,p,r,i,v,a,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,b,o,u,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,b,u,l,k,-,t,r,a,n,s,f,e,r,s,-,2,0,1,7,-,1,0,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,l,a,t,e,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,c,o,m,p,l,i,a,n,c,e,-,r,e,p,o,r,t,i,n,g,-,p,e,r,f,o,r,m,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,t,l,d,-,r,e,g,i,s,t,r,y,-,a,g,r,e,e,m,e,n,t,-,r,e,n,e,w,a,l,s,-,2,0,2,3,-,0,4,-,1,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,v,i,e,w,-,p,r,o,c,e,d,u,r,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,e,w,g,t,l,d,s,-,n,e,x,t,-,r,o,u,n,d,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,d,a,t,a,-,e,s,c,r,o,w,-,s,e,r,v,i,c,e,-,e,s,c,r,o,w,-,a,g,e,n,t,-,c,h,a,n,g,e,-,r,e,q,u,e,s,t,s,-,e,n
+h,t,t,p,s,:,/,/,a,c,c,o,u,n,t,.,i,c,a,n,n,.,o,r,g,/,r,e,g,i,s,t,e,r,a,c,c,o,u,n,t,?,r,e,d,i,r,e,c,t,_,u,r,i,=,h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,o,a,u,t,h,&,c,l,i,e,n,t,_,i,d,=,0,o,a,9,o,9,k,9,r,p,8,V,U,c,y,J,L,2,p,7,&,n,o,n,c,e,=,6,f,5,3,9,8,b,a,-,8,a,6,2,-,4,3,7,0,-,9,9,a,8,-,e,0,0,d,9,8,1,b,6,9,2,d,&,s,t,a,t,e,=,h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,x,p,e,c,t,e,d,-,s,t,a,n,d,a,r,d,s,-,2,0,1,6,-,0,6,-,2,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,i,e,s,-,f,a,q,s,-,2,0,1,4,-,0,8,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,e,l,c,o,m,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,1,2,-,2,0,1,3,-,0,1,-,1,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,p,o,s,e,d,-,s,u,c,c,e,s,s,o,r,-,c,h,e,c,k,-,s,u,p,p,o,r,t,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,l,o,c,a,t,i,o,n,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,e,c,u,r,i,t,y,-,t,e,r,m,i,n,o,l,o,g,y,-,2,0,1,5,-,0,9,-,1,6,-,e,n
+h,t,t,p,:,/,/,w,w,w,.,y,o,u,t,u,b,e,.,c,o,m,/,i,c,a,n,n,n,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,s,e,r,v,e,d,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,m,u,n,i,t,y,-,g,t,l,d,-,c,h,a,n,g,e,-,r,e,q,u,e,s,t,s,-,2,0,1,8,-,0,7,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,o,n,t,a,c,t,/,c,e,r,t,i,f,i,c,a,t,e,-,a,u,t,h,o,r,i,t,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,d,s,-,m,e,t,r,i,c,s,-,2,0,1,5,-,0,1,-,3,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,h,i,s,t,o,r,y,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,o,l,i,c,y,-,s,t,a,t,e,m,e,n,t,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,u,n,t,r,y,-,t,e,r,r,i,t,o,r,y,-,n,a,m,e,s,-,2,0,1,7,-,0,6,-,1,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,n,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,e,r,t,i,f,i,c,a,t,e,-,a,u,t,h,o,r,i,t,y,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,-,a,p,p,r,o,v,a,l,-,p,r,o,c,e,s,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,n,t,-,c,o,n,t,a,c,t,-,i,n,f,o,r,m,a,t,i,o,n,-,w,d,r,p,-,2,0,1,7,-,0,8,-,3,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,p,l,a,i,n,t,s,-,2,0,1,3,-,0,3,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,p,l,a,n,n,i,n,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,o,d,r,-,s,t,a,n,d,a,r,d,s,-,o,f,-,p,r,a,c,t,i,c,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,t,r,a,t,e,g,i,c,-,e,n,g,a,g,e,m,e,n,t,-,2,0,1,3,-,1,0,-,1,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,a,y,m,e,n,t,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,n,s,i,t,i,o,n,-,2,0,1,4,-,0,3,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,o,r,e,-,2,0,1,2,-,0,5,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,d,i,v,e,r,s,i,t,y,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,a,g,r,e,e,m,e,n,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,e,w,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,8,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,b,e,g,i,n,n,e,r,s,/,c,o,u,r,s,e,s,-,a,n,d,-,l,e,a,r,n,i,n,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,b,l,o,g,-,p,o,s,t,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,p,a,r,t,i,c,i,p,a,t,e,/,f,e,l,l,o,w,s,h,i,p,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,e,w,s,l,e,t,t,e,r,-,2,0,1,4,-,0,3,-,1,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,u,r,c,h,a,s,i,n,g,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,f,e,a,t,u,r,e,s,.,i,c,a,n,n,.,o,r,g,/,c,o,m,p,l,i,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,r,a,-,a,m,e,n,d,m,e,n,t,-,2,0,2,1,-,0,3,-,3,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,i,t,i,g,a,t,i,o,n,-,2,0,1,3,-,1,2,-,1,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,r,d,r,p,-,2,0,1,4,-,0,1,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,o,m,c,o,m,-,a,r,c,h,i,v,e,-,2,0,1,4,-,0,5,-,0,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,o,v,e,r,n,a,n,c,e,-,p,l,a,n,-,i,m,p,r,o,v,e,-,m,u,l,t,i,s,t,a,k,e,h,o,l,d,e,r,-,m,o,d,e,l,-,2,0,1,9,-,0,4,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,p,d,a,t,i,n,g,-,i,r,p,-,2,0,1,8,-,0,1,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,s,#,u,p,c,o,m,i,n,g,-,p,u,b,l,i,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,2,0,1,2,-,1,0,-,0,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,c,o,o,k,i,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,n,e,w,i,n,g,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,f,p,-,c,o,m,m,u,n,i,c,a,t,e,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,/,a,b,o,u,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,n,s,e,n,s,u,s,-,p,o,l,i,c,i,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,e,c,h,a,n,i,s,m,s,-,2,0,1,4,-,0,3,-,2,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,c,o,m,p,l,i,a,n,c,e,/,o,u,t,r,e,a,c,h
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,p,o,s,e,d,-,s,u,c,c,e,s,s,o,r,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,b,o,u,t,-,d,o,m,a,i,n,-,n,a,m,e,s,-,2,0,1,8,-,0,8,-,3,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,g,p,-,k,e,y,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,z,d,s,-,2,0,1,4,-,0,3,-,0,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,n,t,a,c,t,-,f,2,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,c,o,m,p,l,i,a,n,c,e,-,p,r,o,g,r,a,m,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,1,9,9,8,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,s, 
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,n,t,i,n,u,i,t,y,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,i,c,a,n,n,.,o,r,g,/,e,n,/,b,o,a,r,d,-,a,c,t,i,v,i,t,i,e,s,-,a,n,d,-,m,e,e,t,i,n,g,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,n,g,o,-,i,d,e,n,t,i,f,i,e,r,-,l,i,s,t,-,2,0,1,8,-,0,1,-,1,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,p,l,i,a,n,c,e,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,t,w,i,t,t,e,r,.,c,o,m,/,i,c,a,n,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,t,l,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,m,p,l,a,i,n,t,s,-,r,e,p,o,r,t,-,2,0,1,7,-,0,6,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,s,p,e,c,i,f,i,c,-,r,e,v,i,e,w,s,/,s,s,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,s,o,u,r,c,e,s,-,2,0,1,3,-,0,6,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,2,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,p,d,a,t,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,l,l,o,c,a,t,i,o,n,-,i,p,v,4,-,p,o,s,t,-,e,x,h,a,u,s,t,i,o,n,-,2,0,1,2,-,0,5,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,t,r,a,n,s,p,a,r,e,n,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,d,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,g,i,s,t,r,i,e,s,/,g,t,l,d,s,/,v,1,/,n,e,w,g,t,l,d,s,.,c,s,v
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,9,-,2,0,2,0,-,0,1,-,0,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,e,s,e,n,t,a,t,i,o,n,s,-,e,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,c,a,r,e,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,o,l,i,c,y,/,i,m,p,l,e,m,e,n,t,a,t,i,o,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,a,c,c,o,u,n,t,a,b,i,l,i,t,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,u,l,e,s,-,4,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,o,v,e,r,n,a,n,c,e,/,a,r,t,i,c,l,e,s,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,g,e,t,-,s,t,a,r,t,e,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,s,a,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,h,o,i,s,-,r,e,c,o,m,m,e,n,d,a,t,i,o,n,s,-,i,m,p,l,e,m,e,n,t,a,t,i,o,n,-,2,0,1,3,-,0,4,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,e,n,e,r,a,l,-,2,0,1,4,-,0,1,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,o,m,b,u,d,s,m,a,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,w,o,r,k,s,h,o,p,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,m,p,l,e,m,e,n,t,a,t,i,o,n,-,g,u,i,d,e,l,i,n,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,i,s,p,u,t,e,-,r,e,s,o,l,u,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,e,n,e,r,a,t,i,o,n,-,p,a,n,e,l,-,2,0,1,5,-,0,6,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,n,e,w,g,t,l,d,s,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,b,o,u,t,/,t,r,a,d,e,m,a,r,k,-,c,l,e,a,r,i,n,g,h,o,u,s,e, 
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,e,s,s,-,r,e,l,e,a,s,e,s,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,u,l,e,s,-,f,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,t,t,p,-,d,a,t,a,-,e,s,c,r,o,w,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,5,4,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,u,l,e,s,-,c,0,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,o,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,c,o,n,s,i,d,e,r,a,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,e,l,i,m,-,c,o,m,p,e,t,i,t,i,o,n,-,i,s,s,u,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,l,i,n,k,e,d,i,n,.,c,o,m,/,c,o,m,p,a,n,y,/,i,c,a,n,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,d,e,p,l,o,y,m,e,n,t,-,g,r,a,p,h,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,g,r,e,e,m,e,n,t,s,-,p,o,l,i,c,i,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,o,m,p,l,a,i,n,t,s,-,o,f,f,i,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,h,o,w,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,i,n,f,o,.,i,c,a,n,n,.,o,r,g,/,L,P,-,-,-,R,e,g,i,o,n,a,l,-,N,e,w,s,l,e,t,t,e,r,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,o,m,p,l,i,a,n,c,e,/,n,o,t,i,c,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,h,i,s,t,o,r,y
+h,t,t,p,s,:,/,/,s,u,b,s,c,r,i,b,e,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,s,y,s,t,e,m,/,f,i,l,e,s,/,f,i,l,e,s,/,r,e,g,i,s,t,r,a,r,-,b,i,l,l,i,n,g,-,f,a,q,-,2,1,d,e,c,2,1,-,e,n,.,p,d,f
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,b,e,r,o,-,t,t,p,-,d,n,s,-,2,0,1,3,-,0,4,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,?,s,o,r,t,-,p,a,r,a,m,=,u,p,c,o,m,i,n,g,-,d,a,t,e,&,s,o,r,t,-,d,i,r,e,c,t,i,o,n,=,a,s,c,&,u,p,c,o,m,i,n,g,-,s,o,r,t,-,p,a,r,a,m,=,u,p,c,o,m,i,n,g,-,d,a,t,e,&,u,p,c,o,m,i,n,g,-,s,o,r,t,-,d,i,r,e,c,t,i,o,n,=,d,e,s,c,&,o,p,e,n,-,s,o,r,t,-,p,a,r,a,m,=,o,p,e,n,-,c,l,o,s,e,d,-,d,a,t,e,&,o,p,e,n,-,s,o,r,t,-,d,i,r,e,c,t,i,o,n,=,a,s,c,&,p,e,n,d,i,n,g,-,s,o,r,t,-,p,a,r,a,m,=,p,e,n,d,i,n,g,-,r,e,p,o,r,t,-,d,u,e,-,d,a,t,e,&,p,e,n,d,i,n,g,-,s,o,r,t,-,d,i,r,e,c,t,i,o,n,=,d,e,s,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,h,e,l,p,/,t,o,s
+h,t,t,p,s,:,/,/,g,a,c,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,y,-,r,e,p,o,r,t,s,-,2,0,1,6,-,0,3,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,l,o,b,a,l,-,a,m,e,n,d,m,e,n,t,-,b,a,s,e,-,n,e,w,-,g,t,l,d,-,r,e,g,i,s,t,r,y,-,a,g,r,e,e,m,e,n,t,-,2,0,1,7,-,0,1,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,o,r,g,/,b,o,a,r,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,s,p,e,c,t,f,u,l,-,c,o,m,m,u,n,i,c,a,t,i,o,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,/,u,p,c,o,m,i,n,g,-,p,r,o,c,e,e,d,i,n,g,s,?,s,o,r,t,-,p,a,r,a,m,=,u,p,c,o,m,i,n,g,-,d,a,t,e,&,s,o,r,t,-,d,i,r,e,c,t,i,o,n,=,a,s,c,&,p,a,g,e,=,1
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,8,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,u,l,e,s,-,4,b,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,e,m,p,l,o,y,e,e,-,p,r,a,c,t,i,c,e,s,-,r,e,s,o,u,r,c,e,s,-,2,0,2,2,-,0,6,-,2,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,t,a,n,d,a,r,d,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,b,o,a,r,d,-,o,f,-,d,i,r,e,c,t,o,r,s,-,2,0,1,4,-,0,3,-,1,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,8,5,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,o,l,i,c,y,-,b,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,g,l,o,b,a,l,-,n,e,w,s,l,e,t,t,e,r
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,e,c,u,r,e,l,y,-,m,a,n,a,g,i,n,g,-,d,o,m,a,i,n,-,n,a,m,e,-,2,0,2,0,-,0,8,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,d,n,s,-,s,e,c,u,r,i,t,y,-,t,h,r,e,a,t
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,g,i,s,t,r,a,r,-,r,e,p,o,r,t,s,/,a,c,c,r,e,d,i,t,a,t,i,o,n,-,q,u,a,l,i,f,i,e,d,-,l,i,s,t,.,h,t,m,l
+h,t,t,p,s,:,/,/,n,e,w,g,t,l,d,s,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,n,e,w,g,t,l,d,s,-,n,e,x,t,-,r,o,u,n,d,-,2,0,2,3,-,0,4,-,0,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,e,c,h,n,o,l,o,g,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,b,u,s,i,n,e,s,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,f,i,l,e,s,/,s,u,m,m,a,r,y,-,e,t,h,i,c,s,-,r,e,v,i,e,w,-,2,0,1,3,-,0,5,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,q,u,e,s,t,i,o,n,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,r,o,v,i,d,e,r,s,-,4,1,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,s,p,e,e,c,h,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,r,a,n,s,f,e,r,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,y,-,s,y,s,t,e,m,-,t,e,s,t,i,n,g,-,2,0,1,7,-,0,7,-,3,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,l,l,o,c,a,t,i,o,n,-,i,p,v,6,-,r,i,r,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,s,p,e,c,i,f,i,c,-,r,e,v,i,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,d,a,t,a,-,e,s,c,r,o,w,-,2,0,1,5,-,1,2,-,0,1,-,e,n
+h,t,t,p,s,:,/,/,o,p,e,n,d,a,t,a,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,i,s,s,i,o,n,-,2,0,1,2,-,0,8,-,2,7,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,c,o,n,t,a,c,t,-,u,p,d,a,t,e,s,-,2,0,1,5,-,0,9,-,2,2,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,c,a,r,e,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,o,r,r,e,s,p,o,n,d,e,n,c,e,-,2,0,1,6,-,2,0,1,7,-,0,1,-,0,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,i,d,n,-,v,a,r,i,a,n,t,-,t,l,d,-,i,m,p,l,e,m,e,n,t,a,t,i,o,n,-,2,0,1,8,-,0,7,-,2,6,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,u,d,r,p,-,r,u,l,e,s,-,2,0,1,5,-,0,3,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,v,i,e,w,s,-,g,e,t,t,i,n,g,-,s,t,a,r,t,e,d,-,2,0,1,8,-,0,3,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,y,-,o,p,e,r,a,t,o,r,-,n,a,m,e,-,c,h,a,n,g,e,-,2,0,1,5,-,1,2,-,2,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,s,s,a,c,-,4,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,:,/,/,g,n,s,o,.,i,c,a,n,n,.,o,r,g,/,e,n,/,g,r,o,u,p,-,a,c,t,i,v,i,t,i,e,s,/,i,n,a,c,t,i,v,e,/,2,0,1,2,/,i,m,p,r,o,v,e,m,e,n,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,s,o,u,r,c,e,s,/,r,e,g,i,s,t,r,a,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,a,1,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,9,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,z,e,r,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,p,u,b,l,i,c,-,c,o,m,m,e,n,t,/,c,l,o,s,e,d,-,p,r,o,c,e,e,d,i,n,g,s,?,p,a,g,e,=,1,&,s,o,r,t,-,p,a,r,a,m,=,c,l,o,s,e,d,-,d,a,t,e,&,s,o,r,t,-,d,i,r,e,c,t,i,o,n,=,d,e,s,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,r,c,h,i,v,e,-,b,c,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,o,c,t,o,-,s,s,r,-,2,0,1,6,-,1,0,-,1,0,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,e,r,g,e,r,-,2,0,1,3,-,0,7,-,0,8,-,e,n
+h,t,t,p,s,:,/,/,a,s,o,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,s,p,e,c,i,f,i,c,-,r,e,v,i,e,w,s,/,a,t,r,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,p,i,c,d,r,p,-,2,0,1,4,-,0,1,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,m,a,t,e,r,i,a,l,-,s,u,b,c,o,n,t,r,a,c,t,i,n,g,-,a,r,r,a,n,g,e,m,e,n,t,-,2,0,1,5,-,1,0,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,e,c,h,n,i,c,a,l,-,e,v,a,l,u,a,t,i,o,n,-,p,a,n,e,l,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,c,c,n,s,o,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,s,s,i,g,n,m,e,n,t,s,-,2,0,1,5,-,1,0,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,r,e,v,i,e,w,s,/,s,p,e,c,i,f,i,c,-,r,e,v,i,e,w,s,/,w,h,o,i,s
+h,t,t,p,s,:,/,/,n,e,w,g,t,l,d,s,.,i,c,a,n,n,.,o,r,g,/,e,n,/,a,n,n,o,u,n,c,e,m,e,n,t,s,-,a,n,d,-,m,e,d,i,a,/,c,a,s,e,-,s,t,u,d,i,e,s, 
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,n,e,w,s,/,p,r,e,s,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,2,0,0,3,-,2,0,1,2,-,1,0,-,1,1,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,r,e,g,i,s,t,r,a,r,-,c,o,m,p,l,i,a,n,c,e,-,c,e,r,t,i,f,i,c,a,t,e,-,2,0,1,5,-,1,2,-,0,9,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,b,a,c,k,g,r,o,u,n,d,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,c,r,o,s,s,-,o,w,n,e,r,s,h,i,p,-,n,o,t,i,f,i,c,a,t,i,o,n,-,s,e,r,v,i,c,e,-,2,0,2,2,-,1,0,-,1,3,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,o,m,b,u,d,s,m,a,n,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,t,l,g,-,7,3,-,2,0,1,2,-,0,2,-,2,5,-,e,n
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,r,e,s,o,u,r,c,e,s,/,p,a,g,e,s,/,a,p,p,r,o,a,c,h,-,p,r,o,c,e,s,s,e,s,-,2,0,1,2,-,0,2,-,2,5,-,e,n

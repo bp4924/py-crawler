@@ -5,7 +5,7 @@ import json
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
-file_path = 'results/data.txt'
+file_path_txt = 'results/data.txt'
 file_path_csv = 'results/data.csv'
 file_path_json = 'results/data.json'
 results_folder = "results"
@@ -62,7 +62,7 @@ class SimpleSpider:
 # titles
         titles = soup.find("title")
         if titles is not None:
-            with open(file_path, 'a', encoding='utf-8') as f:
+            with open(file_path_txt, 'a', encoding='utf-8') as f:
                 for title in titles:
                     f.write('Title: ' + title.text + '\n')
 
@@ -77,7 +77,7 @@ class SimpleSpider:
 # headers
         headers = soup.find_all(['h1', 'h2', 'h3'])
         if headers is not None:
-            with open(file_path, 'a', encoding='utf-8') as f:
+            with open(file_path_txt, 'a', encoding='utf-8') as f:
                 for header in headers:
                     f.write(f"{header.name}:  {header.text}\n")
 
@@ -87,7 +87,7 @@ class SimpleSpider:
 
 # text of page
         page_texts = soup.find("body")
-        with open(file_path, 'a', encoding='utf-8') as f:
+        with open(file_path_txt, 'a', encoding='utf-8') as f:
             for page_text in page_texts:
                 f.write(f"{page_text.name}: {page_text.text} + \n")
 
@@ -124,7 +124,7 @@ class SimpleSpider:
             return
 
         if url not in self.visited_pages:
-            with open(file_path, 'a') as f:
+            with open(file_path_txt, 'a') as f:
                 f.write(url + '\n')
             self.visited_pages.add(url)
             links = self.get_links(url)
@@ -143,4 +143,4 @@ if __name__ == "__main__":
     start_url = "https://example.com/"
     spider = SimpleSpider(start_url)
     spider.crawl(start_url)
-    print("Done!! View results in " + file_path)
+    print("Done!! View results in the " + results_folder + " folder")
