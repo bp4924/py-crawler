@@ -1,6 +1,369 @@
 https://example.com/
 Title: Example Domain
+h1:  Example Domain
+None: 
+ + 
+div: 
+Example Domain
+This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.
+More information...
+ + 
+None: 
+ + 
 https://www.iana.org/domains/example
 Title: IANA-managed Reserved Domains
-https://www.iana.org/domains
-Title: Domain Name Services
+h1:  IANA-managed Reserved Domains
+h2:  Example domains
+h2:  Test IDN top-level domains
+h2:  Policy-reserved domains
+h2:  Other Special-Use Domains
+h2:  Domain Names
+None: 
+ + 
+header: 
+
+
+
+
+
+
+Domains
+Protocols
+Numbers
+About
+
+
+
+ + 
+None: 
+ + 
+div: 
+
+
+IANA-managed Reserved Domains
+Certain domains are set aside, and nominally registered to “IANA”, for specific
+		policy or technical purposes.
+Example domains
+As described in RFC 2606 and RFC 6761,
+	a number of domains such as example.com and example.org
+	are maintained for documentation purposes. These domains may be used as illustrative
+	examples in documents without prior coordination with us. They are 
+	not available for registration or transfer.
+Test IDN top-level domains
+These domains were temporarily delegated by IANA for the IDN Evaluation being conducted by ICANN.
+
+
+
+DomainDomain (A-label)LanguageScript
+
+
+إختبارXN--KGBECHTV
+ArabicArabic
+آزمایشیXN--HGBK6AJ7F53BBA
+PersianArabic
+测试XN--0ZWM56D
+ChineseHan (Simplified variant)
+測試XN--G6W251D
+ChineseHan (Traditional variant)
+испытаниеXN--80AKHBYKNJ4F
+RussianCyrillic
+परीक्षाXN--11B5BS3A9AJ6G
+HindiDevanagari (Nagari)
+δοκιμήXN--JXALPDLP
+Greek, Modern (1453-)Greek
+테스트XN--9T4B11YI5A
+KoreanHangul (Hangŭl, Hangeul)
+טעסטXN--DEBA0AD
+YiddishHebrew
+テストXN--ZCKZAH
+JapaneseKatakana
+பரிட்சைXN--HLCJ6AYA9ESC7A
+TamilTamil
+
+
+Policy-reserved domains
+We act as both the registrant and registrar for a select number of domains
+		which have been reserved under policy grounds. These exclusions are
+		typically indicated in either technical standards (RFC documents),
+		or contractual limitations.
+Domains which are described as registered to IANA or ICANN on policy
+		grounds are not available for registration or transfer, with the exception
+		of country-name.info domains. These domains are available for release
+		by the ICANN Governmental Advisory Committee Secretariat.
+Other Special-Use Domains
+There is additionally a Special-Use Domain Names registry documenting special-use domains designated by technical standards. For further information, see Special-Use Domain Names (RFC 6761).
+
+
+
+Domain Names
+
+Overview
+Root Zone Management
+
+Overview
+Root Database
+Hint and Zone Files
+Change Requests
+Instructions & Guides
+Root Servers
+
+.INT Registry
+
+Overview
+Register/modify an .INT domain
+Eligibility
+
+.ARPA Registry
+IDN Practices Repository
+
+Overview
+
+Submit a table
+
+Root Key Signing Key (DNSSEC)
+
+Overview
+Trusts Anchors and Keys
+Key Signing Ceremonies
+Policies & Procedures
+Community Representatives
+Project Archive
+
+Reserved Domains
+
+
+
+
+ + 
+None: 
+ + 
+footer: 
+
+
+
+Domain Names
+
+
+Root Zone Registry
+.INT Registry
+.ARPA Registry
+IDN Repository
+
+
+
+
+Number Resources
+
+
+Abuse Information
+
+
+
+
+Protocols
+
+
+Protocol Registries
+Time Zone Database
+
+
+
+
+About Us
+
+
+Performance
+Reports
+Reviews
+Excellence
+Contact Us
+
+
+
+
+
+The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by Public Technical Identifiers, an affiliate of
+                ICANN.
+
+
+
+Privacy Policy
+Terms of Service
+
+
+
+ + 
+None: 
+ + 
+script: 
+$(document).ready(function() {
+	$("#nav_dom_special").addClass("selected")
+	$("#nav_dom_int_sub").hide()
+	$("#nav_dom_idn_sub").hide()
+	$("#nav_dom_dnssec_sub").hide()
+	$("#nav_dom_tools_sub").hide()
+	$("#nav_dom_root_sub").hide()
+});
+ + 
+None: 
+ + 
+https://www.iana.org/about
+Title: About us
+h1:  About us
+h2:  Mission Statement
+h2:  Our Policy Remit
+h2:  About us
+None: 
+ + 
+header: 
+
+
+
+
+
+
+Domains
+Protocols
+Numbers
+About
+
+
+
+ + 
+None: 
+ + 
+div: 
+
+
+About us
+We are responsible
+for coordinating some of the key elements that keep the Internet running 
+smoothly. Whilst the Internet is renowned for being a worldwide network 
+free from central coordination, there is a technical need for some key parts 
+of the Internet to be globally coordinated, and this coordination role is 
+undertaken by us.
+Specifically, we allocate and maintain unique codes and numbering
+systems that are used in the technical standards (“protocols”) that drive 
+the Internet.
+Our various activities can be broadly grouped in to three categories:
+
+Domain NamesManagement of the DNS Root, the .int and .arpa domains, and an IDN practices resource.
+Number ResourcesCo-ordination of the global pool of IP and AS numbers, primarily providing them to Regional Internet Registries (RIRs).
+Protocol AssignmentsInternet protocols’ numbering systems are managed in conjunction with standards bodies.
+
+We are one of the Internet's oldest institutions, with the IANA functions dating back to the 1970s. Today the
+    services are provided by Public Technical Identifiers, a purpose-built organization
+    for providing the IANA functions to the community. PTI is an affiliate of ICANN,
+    an internationally-organised non-profit organisation set up by the Internet community to coordinate our
+    areas of responsibilities.
+Mission Statement
+This statement describes the role of PTI:
+PTI is responsible for the operational aspects
+of coordinating the Internet’s unique identifiers and maintaining the trust
+of the community to provide these services in an unbiased, responsible and
+effective manner.
+Our Policy Remit
+We do not directly set policy by which we operate, instead we implement
+agreed policies and principles in a neutral and responsible manner. Using the policy-setting forums provided by ICANN, policy development for domain name operations
+    and IP addressing is arrived at by many different stakeholders. ICANN has a structure of supporting
+organisations that contribute to deciding how ICANN runs, which in turn informs
+    how  PTI is operated. The development of Internet protocols, which often dictate
+how protocol assignments should be managed, are arrived at within the 
+Internet Engineering Task Force, the Internet Engineering Steering 
+Group, and the Internet Architecture Board.
+To improve its operations, we are actively involved in outreach too. As well
+as in ICANN forums, we participate in meetings and discussions with TLD
+operators, Regional Internet Registries, and other relevant communities. 
+We provide manned helpdesks at key meetings to allow
+one-to-one interaction with our community of users, such as protocol developers
+and operators of critical Internet infrastructure.
+
+
+
+About us
+
+Introduction
+Performance Reporting
+Procedures
+Presentations
+Public Reports
+Framework Documents
+Reviews
+Audits
+Excellence & Quality
+Contact us
+
+
+
+
+ + 
+None: 
+ + 
+footer: 
+
+
+
+Domain Names
+
+
+Root Zone Registry
+.INT Registry
+.ARPA Registry
+IDN Repository
+
+
+
+
+Number Resources
+
+
+Abuse Information
+
+
+
+
+Protocols
+
+
+Protocol Registries
+Time Zone Database
+
+
+
+
+About Us
+
+
+Performance
+Reports
+Reviews
+Excellence
+Contact Us
+
+
+
+
+
+The IANA functions coordinate the Internet’s globally unique identifiers, and
+                are provided by Public Technical Identifiers, an affiliate of
+                ICANN.
+
+
+
+Privacy Policy
+Terms of Service
+
+
+
+ + 
+None: 
+ + 
+script: 
+$(document).ready(function() {
+	$("#nav_about_top").addClass("selected")	
+});
+ + 
+None: 
+ + 

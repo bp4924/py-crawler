@@ -1,22 +1,25 @@
-h1:  Example Domain
-body: 
-
+Title: Example Domainh1:  Example Domain
+None: 
+ + 
+div: 
 Example Domain
 This domain is for use in illustrative examples in documents. You may use this
     domain in literature without prior coordination or asking for permission.
 More information...
-
+ + 
+None: 
  + 
 Title,Url
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,e,x,a,m,p,l,e
-h1:  IANA-managed Reserved Domains
+Title: IANA-managed Reserved Domainsh1:  IANA-managed Reserved Domains
 h2:  Example domains
 h2:  Test IDN top-level domains
 h2:  Policy-reserved domains
 h2:  Other Special-Use Domains
 h2:  Domain Names
-body: 
-
+None: 
+ + 
+header: 
 
 
 
@@ -30,8 +33,10 @@ About
 
 
 
-
-
+ + 
+None: 
+ + 
+div: 
 
 
 IANA-managed Reserved Domains
@@ -128,8 +133,10 @@ Reserved Domains
 
 
 
-
-
+ + 
+None: 
+ + 
+footer: 
 
 
 
@@ -185,65 +192,80 @@ Terms of Service
 
 
 
-
-
+ + 
+None: 
+ + 
+script: 
+$(document).ready(function() {
+	$("#nav_dom_special").addClass("selected")
+	$("#nav_dom_int_sub").hide()
+	$("#nav_dom_idn_sub").hide()
+	$("#nav_dom_dnssec_sub").hide()
+	$("#nav_dom_tools_sub").hide()
+	$("#nav_dom_root_sub").hide()
+});
+ + 
+None: 
  + 
 Title,Url
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,g,6,w,2,5,1,d,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,d,e,b,a,0,a,d,.,h,t,m,l
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,k,g,b,e,c,h,t,v,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,z,c,k,z,a,h,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,8,0,a,k,h,b,y,k,n,j,4,f,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,g,b,k,6,a,j,7,f,5,3,b,b,a,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,2,6,0,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,l,c,j,6,a,y,a,9,e,s,c,7,a,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,s,s,i,g,n,m,e,n,t,s,/,s,p,e,c,i,a,l,-,u,s,e,-,d,o,m,a,i,n,-,n,a,m,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,j,x,a,l,p,d,l,p,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,0,z,w,m,5,6,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,9,t,4,b,1,1,y,i,5,a,.,h,t,m,l
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,o,p,i,c,s,/,i,d,n,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,d,e,b,a,0,a,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,g,i,s,t,r,i,e,s,/,a,g,r,e,e,m,e,n,t,s,.,h,t,m
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,1,1,b,5,b,s,3,a,9,a,j,6,g,.,h,t,m,l
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,6,7,6,1
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,l,c,j,6,a,y,a,9,e,s,c,7,a,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,s,s,i,g,n,m,e,n,t,s,/,s,p,e,c,i,a,l,-,u,s,e,-,d,o,m,a,i,n,-,n,a,m,e,s
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,g,i,s,t,r,i,e,s,/,a,g,r,e,e,m,e,n,t,s,.,h,t,m
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,z,c,k,z,a,h,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,1,1,b,5,b,s,3,a,9,a,j,6,g,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,0,z,w,m,5,6,d,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,8,0,a,k,h,b,y,k,n,j,4,f,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
+h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
-h1:  Domain Name Services
-h2:  Domain Names
-body: 
-
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,g,6,w,2,5,1,d,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,2,6,0,6
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,g,b,k,6,a,j,7,f,5,3,b,b,a,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,o,p,i,c,s,/,i,d,n,/
+Title: About ush1:  About us
+h2:  Mission Statement
+h2:  Our Policy Remit
+h2:  About us
+None: 
+ + 
+header: 
 
 
 
@@ -257,79 +279,77 @@ About
 
 
 
+ + 
+None: 
+ + 
+div: 
+
+
+About us
+We are responsible
+for coordinating some of the key elements that keep the Internet running 
+smoothly. Whilst the Internet is renowned for being a worldwide network 
+free from central coordination, there is a technical need for some key parts 
+of the Internet to be globally coordinated, and this coordination role is 
+undertaken by us.
+Specifically, we allocate and maintain unique codes and numbering
+systems that are used in the technical standards (“protocols”) that drive 
+the Internet.
+Our various activities can be broadly grouped in to three categories:
+
+Domain NamesManagement of the DNS Root, the .int and .arpa domains, and an IDN practices resource.
+Number ResourcesCo-ordination of the global pool of IP and AS numbers, primarily providing them to Regional Internet Registries (RIRs).
+Protocol AssignmentsInternet protocols’ numbering systems are managed in conjunction with standards bodies.
+
+We are one of the Internet's oldest institutions, with the IANA functions dating back to the 1970s. Today the
+    services are provided by Public Technical Identifiers, a purpose-built organization
+    for providing the IANA functions to the community. PTI is an affiliate of ICANN,
+    an internationally-organised non-profit organisation set up by the Internet community to coordinate our
+    areas of responsibilities.
+Mission Statement
+This statement describes the role of PTI:
+PTI is responsible for the operational aspects
+of coordinating the Internet’s unique identifiers and maintaining the trust
+of the community to provide these services in an unbiased, responsible and
+effective manner.
+Our Policy Remit
+We do not directly set policy by which we operate, instead we implement
+agreed policies and principles in a neutral and responsible manner. Using the policy-setting forums provided by ICANN, policy development for domain name operations
+    and IP addressing is arrived at by many different stakeholders. ICANN has a structure of supporting
+organisations that contribute to deciding how ICANN runs, which in turn informs
+    how  PTI is operated. The development of Internet protocols, which often dictate
+how protocol assignments should be managed, are arrived at within the 
+Internet Engineering Task Force, the Internet Engineering Steering 
+Group, and the Internet Architecture Board.
+To improve its operations, we are actively involved in outreach too. As well
+as in ICANN forums, we participate in meetings and discussions with TLD
+operators, Regional Internet Registries, and other relevant communities. 
+We provide manned helpdesks at key meetings to allow
+one-to-one interaction with our community of users, such as protocol developers
+and operators of critical Internet infrastructure.
+
+
+
+About us
+
+Introduction
+Performance Reporting
+Procedures
+Presentations
+Public Reports
+Framework Documents
+Reviews
+Audits
+Excellence & Quality
+Contact us
 
 
 
 
-Domain Name Services
-We operate and maintain a number of key aspects of the DNS, including the root zone, and
-    the .int and .arpa domains.
-The DNS Root Zone
-The root is the upper-most part of the DNS hierarchy, and involves delegating administrative
-responsibility of “top-level domains”, which are the last segment of a domain 
-name, such as .com, .uk and .nz. 
-Part of our tasks includes evaluating requests to change the operators of
-country code domains, as well as day-to-day maintenance of the details of 
-the existing operators.
-.INT
-The .int top-level domain, designed for the sole use of
-cross-national organisations, such as treaty organisations, that do not 
-naturally fit into a specific country’s top-level domain. For example, who.int for the World Health Organisation.
-.ARPA
-The .arpa domain is used internally by Internet protocols, such as for reverse 
-mapping of IP addresses, and delivery of ENUM phone number mapping. 
-We administer this domain in close liaison with the Internet Architecture
-Board, which has policy responsibility for .arpa.
-IDN Practices Repository
-To help foster the deployment of Internationalised Domain Names (IDNs), a repository of “IDN tables” which document the permissable characters for different languages and scripts provided for registration by different top-level domain registries. The repository is informative, and designed for information sharing.
-Root Key Signing Key
-The Root Key Signing Key provides verification of the DNSSEC-signed root zone.
-Special Purpose Domains
-A number of special domains are reserved or managed for demonstration purposes, or for future use.
-
-
-
-Domain Names
-
-Overview
-Root Zone Management
-
-Overview
-Root Database
-Hint and Zone Files
-Change Requests
-Instructions & Guides
-Root Servers
-
-.INT Registry
-
-Overview
-Register/modify an .INT domain
-Eligibility
-
-.ARPA Registry
-IDN Practices Repository
-
-Overview
-
-Submit a table
-
-Root Key Signing Key (DNSSEC)
-
-Overview
-Trusts Anchors and Keys
-Key Signing Ceremonies
-Policies & Procedures
-Community Representatives
-Project Archive
-
-Reserved Domains
-
-
-
-
-
-
+ + 
+None: 
+ + 
+footer: 
 
 
 
@@ -385,43 +405,43 @@ Terms of Service
 
 
 
-
-
+ + 
+None: 
+ + 
+script: 
+$(document).ready(function() {
+	$("#nav_about_top").addClass("selected")	
+});
+ + 
+None: 
  + 
 Title,Url
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,a,u,d,i,t,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,s,p,e,c,i,a,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s,/
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
+h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
+h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,p,r,e,s,e,n,t,a,t,i,o,n,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,f,r,a,m,e,w,o,r,k
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s

@@ -37,6 +37,7 @@ class SimpleSpider:
     def get_links(self, url):
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
+
 # Create a list to store the data
         data = []
 
@@ -51,36 +52,57 @@ class SimpleSpider:
 
 # titles
         titles = soup.find("title")
-        with open(file_path, 'a', encoding='utf-8') as f:
-            for title in titles:
-                f.write('Title: ' + title.text + '\n')
+        if titles is not None:
+            with open(file_path, 'a', encoding='utf-8') as f:
+                for title in titles:
+                    f.write('Title: ' + title.text + '\n')
+
+                with open(file_path_csv, 'a', encoding='utf-8') as f:
+                    for title in titles:
+                        f.write("Title: " + title.text)
 
 # headers
         headers = soup.find_all(['h1', 'h2', 'h3'])
         if headers is not None:
+            with open(file_path, 'a', encoding='utf-8') as f:
+                for header in headers:
+                    f.write(f"{header.name}:  {header.text}\n")
+
             with open(file_path_csv, 'a', encoding='utf-8') as f:
                 for header in headers:
                     f.write(f"{header.name}:  {header.text}\n")
 
 # text of page
-        page_texts = soup.find_all("body")
+        page_texts = soup.find("body")
+        with open(file_path, 'a', encoding='utf-8') as f:
+            for page_text in page_texts:
+                f.write(f"{page_text.name}: {page_text.text} + \n")
+
         with open(file_path_csv, 'a', encoding='utf-8') as f:
             for page_text in page_texts:
                 f.write(f"{page_text.name}: {page_text.text} + \n")
 
-        for item in soup.find_all('div', class_='item'):
-            title = item.find('h2').text
-            description = item.find('p').text
+
+#                print(f"text: {page_text}")
+
+#        for item in soup.find_all('div', class_='item'):
+#            print("find div")
+            #            title = item.find('h2').text
+#            description = item.find('p').text
+#            print("find p")
+#            print(title, description)
 
 # Create a dictionary for each item and populate it with key-value pairs
-            item_data = {'title': title, 'description': description}
+#            item_data = {'title': title, 'description': description}
+#
+#            print("item: " + item_data)
 
 # Append the dictionary to the list
-            data.append(item_data)
+#            data.append(item_data)
+#            print(data)
 
 # Print the retrieved data
-        for item in data:
-            print(item)
+ #       for item in data:
 
         return links
 
@@ -93,6 +115,7 @@ class SimpleSpider:
                 f.write(url + '\n')
             self.visited_pages.add(url)
             links = self.get_links(url)
+#            print(f"links: {links}  \n")
 
             with open(file_path_csv, "a", newline="") as f:
                 writer = csv.writer(f)
