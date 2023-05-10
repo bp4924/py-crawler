@@ -10,7 +10,6 @@ file_path_csv = 'results/data.csv'
 file_path_json = 'results/data.json'
 results_folder = "results"
 
-
 delete_file = input("Do you want to delete the files? (y/n): ") or "y"
 if delete_file == 'y':
 
@@ -49,6 +48,7 @@ class SimpleSpider:
         links = set()
         for link in soup.find_all('a', href=True):
             href = link['href']
+
             if self.is_valid_url(href):
                 links.add(href)
             elif href.startswith('/'):
@@ -57,7 +57,6 @@ class SimpleSpider:
             with open(file_path_json, 'a', encoding='utf-8') as json_file:
                 for link in links:
                     json.dump(link, json_file)
-
 
 # titles
         titles = soup.find("title")
@@ -133,7 +132,7 @@ class SimpleSpider:
             with open(file_path_csv, "a", newline="") as f:
                 writer = csv.writer(f)
                 writer.writerow(["Title", "Url"])
-                writer.writerows(links)
+#                writer.writerows(links)
 
             for link in links:
                 self.crawl(link)
