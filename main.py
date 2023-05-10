@@ -28,7 +28,7 @@ if delete_file == 'y':
 
 
 class SimpleSpider:
-    def __init__(self, start_url, max_pages=3):
+    def __init__(self, start_url, max_pages=4):
         self.start_url = start_url
         self.max_pages = max_pages
         self.visited_pages = set()
@@ -42,21 +42,31 @@ class SimpleSpider:
         soup = BeautifulSoup(response.text, 'html.parser')
 
 # Create a list to store the data
-        data = []
+        data = {}
+        html_tags = ['title', 'h1', 'h2', 'h3']
 
 # links
         links = set()
         for link in soup.find_all('a', href=True):
             href = link['href']
-
             if self.is_valid_url(href):
                 links.add(href)
             elif href.startswith('/'):
                 links.add(urljoin(url, href))
 
-            with open(file_path_json, 'a', encoding='utf-8') as json_file:
-                for link in links:
-                    json.dump(link, json_file)
+# extract html tags
+        for element in soup.find_all([html_tags]):
+            # Extract the values you want from the element
+            key = element.name
+            value = element.text
+
+            data[key] = value
+
+# dump to file
+            with open(file_path_json, 'a', encoding='utf-8') as f:
+                json.dump(data, f)
+
+            print(data)
 
 # titles
         titles = soup.find("title")
@@ -68,10 +78,6 @@ class SimpleSpider:
                 with open(file_path_csv, 'a', encoding='utf-8') as f:
                     for title in titles:
                         f.write("Title: " + title.text)
-
-                with open(file_path_json, 'a', encoding='utf-8') as json_file:
-                    for title in titles:
-                        json.dump(title, json_file)
 
 # headers
         headers = soup.find_all(['h1', 'h2', 'h3'])
@@ -86,35 +92,13 @@ class SimpleSpider:
 
 # text of page
         page_texts = soup.find("body")
-        with open(file_path_txt, 'a', encoding='utf-8') as f:
-            for page_text in page_texts:
-                f.write(f"{page_text.name}: {page_text.text} + \n")
+#        with open(file_path_txt, 'a', encoding='utf-8') as f:
+#            for page_text in page_texts:
+#                f.write(f"{page_text.name}: {page_text.text} + \n")
 
         with open(file_path_csv, 'a', encoding='utf-8') as f:
             for page_text in page_texts:
                 f.write(f"{page_text.name}: {page_text.text} + \n")
-
-
-#                print(f"text: {page_text}")
-
-#        for item in soup.find_all('div', class_='item'):
-#            print("find div")
-            #            title = item.find('h2').text
-#            description = item.find('p').text
-#            print("find p")
-#            print(title, description)
-
-# Create a dictionary for each item and populate it with key-value pairs
-#            item_data = {'title': title, 'description': description}
-#
-#            print("item: " + item_data)
-
-# Append the dictionary to the list
-#            data.append(item_data)
-#            print(data)
-
-# Print the retrieved data
- #       for item in data:
 
         return links
 
@@ -125,13 +109,18 @@ class SimpleSpider:
         if url not in self.visited_pages:
             with open(file_path_txt, 'a') as f:
                 f.write(url + '\n')
+#            with open(file_path_json, 'a') as f:
+#                json.dump(url, f)
             self.visited_pages.add(url)
             links = self.get_links(url)
-#            print(f"links: {links}  \n")
 
-            with open(file_path_csv, "a", newline="") as f:
-                writer = csv.writer(f)
-                writer.writerow(["Title", "Url"])
+#            with open(file_path_json, 'a') as f:
+#                for link in links:
+#                    json.dump(link, f)
+
+#            with open(file_path_csv, "a", newline="") as f:
+#                writer = csv.writer(f)
+#                writer.writerow(["Title", "Url"])
 #                writer.writerows(links)
 
             for link in links:
