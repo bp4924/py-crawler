@@ -13,7 +13,9 @@ https://www.iana.org/about/excellence
 Title: Business Excellence and Quality Management
 h1:  Business Excellence and Quality Management
 h2:  About us
-https://www.iana.org/domains/idn-tables
-Title: Repository of IDN Practices
-h1:  Repository of IDN Practices
+https://www.iana.org/
+Title: Internet Assigned Numbers Authority
+h1:  Internet Assigned Numbers Authority
 h2:  Domain Names
+h2:  Number Resources
+h2:  Protocol Assignments

@@ -41,7 +41,7 @@ class SimpleSpider:
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
-# Create a list to store the data
+# Create a dictionary to store the data
         data = {}
         html_tags = ['title', 'h1', 'h2', 'h3']
 
