@@ -44,6 +44,7 @@ class SimpleSpider:
 # Create a dictionary to store the data
         data = {}
         html_tags = ['title', 'h1', 'h2', 'h3']
+        existing_data = []
 
 # links
         links = set()
@@ -54,17 +55,22 @@ class SimpleSpider:
             elif href.startswith('/'):
                 links.add(urljoin(url, href))
 
+# Load existing data from the JSON file
+        if os.path.isfile(file_path_json):
+            with open(file_path_json, 'r') as f:
+                existing_data = json.load(f)
+
 # extract html tags
-#        for element in soup.find_all([html_tags]):
+        for element in soup.find_all([html_tags]):
             # Extract the values you want from the element
-#            key = element.name
-#            value = element.text
+            key = element.name
+            value = element.text
+            data[key] = value
+            existing_data.append(data)
 
-#            data[key] = value
-
-# dump to file
-#            with open(file_path_json, 'a', encoding='utf-8') as f:
-#                json.dump(data, f, indent=4)
+# dump to json file
+            with open(file_path_json, 'w') as f:
+                json.dump(existing_data, f, indent=4, separators=(',', ': '))
 
 # titles
         titles = soup.find("title")
@@ -111,8 +117,6 @@ class SimpleSpider:
             self.visited_pages.add(url)
             links = self.get_links(url)
 
-            print(url)
-
 # build dictionary for url
             page_url = {}
             existing_data = []
@@ -125,7 +129,6 @@ class SimpleSpider:
             key = "url"
             value = url
             page_url[key] = value
-
             existing_data.append(page_url)
 
             with open(file_path_json, 'w') as f:
