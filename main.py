@@ -64,7 +64,7 @@ class SimpleSpider:
 
 # dump to file
             with open(file_path_json, 'a', encoding='utf-8') as f:
-                json.dump(data, f)
+                json.dump(data, f, indent=4)
 
             print(data)
 
@@ -109,8 +109,6 @@ class SimpleSpider:
         if url not in self.visited_pages:
             with open(file_path_txt, 'a') as f:
                 f.write(url + '\n')
-#            with open(file_path_json, 'a') as f:
-#                json.dump(url, f)
             self.visited_pages.add(url)
             links = self.get_links(url)
 
@@ -118,10 +116,10 @@ class SimpleSpider:
 #                for link in links:
 #                    json.dump(link, f)
 
-#            with open(file_path_csv, "a", newline="") as f:
-#                writer = csv.writer(f)
-#                writer.writerow(["Title", "Url"])
-#                writer.writerows(links)
+            with open(file_path_csv, "a", newline="") as csvfile:
+                writer = csv.writer(csvfile)
+                writer.writerow(["Title", "Url"])
+                writer.writerows(links)
 
             for link in links:
                 self.crawl(link)
