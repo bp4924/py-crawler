@@ -208,58 +208,58 @@ $(document).ready(function() {
 None: 
  + 
 Title,Url
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,k,g,b,e,c,h,t,v,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,1,1,b,5,b,s,3,a,9,a,j,6,g,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,g,6,w,2,5,1,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,l,c,j,6,a,y,a,9,e,s,c,7,a,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,s,s,i,g,n,m,e,n,t,s,/,s,p,e,c,i,a,l,-,u,s,e,-,d,o,m,a,i,n,-,n,a,m,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,z,c,k,z,a,h,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,d,e,b,a,0,a,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,9,t,4,b,1,1,y,i,5,a,.,h,t,m,l
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,g,i,s,t,r,i,e,s,/,a,g,r,e,e,m,e,n,t,s,.,h,t,m
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,g,b,k,6,a,j,7,f,5,3,b,b,a,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,j,x,a,l,p,d,l,p,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,8,0,a,k,h,b,y,k,n,j,4,f,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,6,7,6,1
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,2,6,0,6
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,0,z,w,m,5,6,d,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,o,p,i,c,s,/,i,d,n,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
-h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,0,z,w,m,5,6,d,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
 h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-Title: .إختبار Domain Delegation Datah1:  Delegation Record for .إختبار
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,8,0,a,k,h,b,y,k,n,j,4,f,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,9,t,4,b,1,1,y,i,5,a,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,z,c,k,z,a,h,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,2,6,0,6
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,6,7,6,1
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,t,o,p,i,c,s,/,i,d,n,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,k,g,b,e,c,h,t,v,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,j,x,a,l,p,d,l,p,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,l,c,j,6,a,y,a,9,e,s,c,7,a,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,h,g,b,k,6,a,j,7,f,5,3,b,b,a,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,s,s,i,g,n,m,e,n,t,s,/,s,p,e,c,i,a,l,-,u,s,e,-,d,o,m,a,i,n,-,n,a,m,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,d,e,b,a,0,a,d,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,e,n,/,r,e,g,i,s,t,r,i,e,s,/,a,g,r,e,e,m,e,n,t,s,.,h,t,m
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
+h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b,/,x,n,-,-,1,1,b,5,b,s,3,a,9,a,j,6,g,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
+Title: .測試 Domain Delegation Datah1:  Delegation Record for .測試
 h2:  Sponsoring Organisation
 h2:  Administrative Contact
 h2:  Technical Contact
@@ -289,7 +289,7 @@ None:
 div: 
 
 
-Delegation Record for .إختبار
+Delegation Record for .測試
 (Test top-level domain)
 Sponsoring Organisation
 Administrative Contact
@@ -425,45 +425,44 @@ $(document).ready(function() {
 None: 
  + 
 Title,Url
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s,/,2,0,0,7,/,t,e,s,t,e,t,a,l,-,r,e,p,o,r,t,-,0,1,a,u,g,2,0,0,7,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
+h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s,/,2,0,0,7,/,t,e,s,t,e,t,a,l,-,r,e,p,o,r,t,-,0,1,a,u,g,2,0,0,7,.,h,t,m,l
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
 h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
-h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-Title: .INT Policy & Proceduresh1:  .INT Policy & Procedures
-h2:  Eligibility for a .INT domain
-h2:  Domain Names
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
+Title: Business Excellence and Quality Managementh1:  Business Excellence and Quality Management
+h2:  About us
 None: 
  + 
 header: 
@@ -486,59 +485,49 @@ None:
 div: 
 
 
-.INT Policy & Procedures
-Eligibility for a .INT domain
-To register in the .int domain, the applicant must be an intergovernmental organization that meets the requirements found in RFC 1591. In brief, the .int domain is used for registering organizations established by international treaties between or among national governments. Only one registration is allowed for each organization. There is no fee for registering an .int domain name.
-Please consider the following three elements before applying for an .int domain name. These qualifications must be met before an .int domain name can be granted.
-
-An international treaty between or among national governments must be provided. We should be able to look up the international treaty in the UN online database of treaties, or you should provide us a true certified copy of the treaty. Please be sure what you provide is a treaty, not the constitution or bylaws of the organization. We recognize as organizations qualified for domain names under the .int top-level domain the specialized agencies of the UN, and the organizations having observer status at the UN General Assembly.
-The treaty submitted must establish the organization applying for the .int domain name. The organization must be established by the treaty itself, not by a council decision or similar.
-The organization that is established must be widely considered to have independent international legal personality and must be the subject of and governed by international law. The declaration or the treaty must have created the organization. If the organization created is a secretariat, it must have a legal personality. For example, it must be able to enter into contracts and be party to legal proceedings.
-
-Please also review the following information to help determine if you should submit an application for an .int domain name:
-
-If the organization is a program/function of a treaty organization, we suggest you contact that organization. The program/function is eligible, with consent of the treaty organization, to receive a third-level domain within the second level .int domain operated by that organization (e.g., example.un.int). For example, if your organization is a program of the UN, you should contact the administrator for un.int for a third level domain. If you wish to pursue this, you should contact the appropriate officials of the organization, who can set up the third-level domain without involvement of the IANA. See the IANA Whois service for information about the administrative and technical contacts of the various .int domains.
-The IANA no longer grants .int domain names for international databases as per RFC 1591.
-In the past, the .int top-level domain was used both for international treaty-based organizations and for Internet-infrastructure purposes. Because of the need for secure and stable management of the infrastructure aspects of the .int domain, from the time of its inception in 1988 the .int domain was administered by personnel at the University of Southern California/Information Sciences Institute. This activity was assumed by ICANN as part of the transition of the IANA functions from USC/ISI to ICANN at the time of ICANN's establishment. In 2000 the Internet Architecture Board recommended that any new infrastructure subdomains be established within .arpa and that consideration be given to migrating existing infrastructure subdomains in .int to .arpa. See also RFC 3172, Appendix A (28 April 2000 letter from Karen Rose to Louis Touton designating administration of .arpa as an additional IANA function). Accordingly, subdomains are now established in .int only for international treaty-based organizations.
+Business Excellence and Quality Management
 
 
 
+We are committed to operations excellence and have had an ongoing Business Excellence activity for 
+    the IANA functions since 2009. We are pleased to have received EFQM
+        Committed to Excellence recognition for these departments following an assessment conducted by a panel of
+    three independent assessors in August 2013.
+Founded in 1989, EFQM (the European Foundation for Quality Management) is the not-for-profit membership foundation
+    that publishes the EFQM Excellence Model, a comprehensive management framework used by over 30,000 organizations
+    around the world. The model helps organizations achieve and sustain outstanding levels of performance that meet or
+    exceed the expectations of all their stakeholders. It allows people to understand the cause and effect relationships
+    between what their organization does and the results it achieves.
+The model is based on the Fundamental Concepts of Excellence:
 
-Domain Names
+Adding value for customers
+Creating a sustainable future
+Developing organizational capability
+Harnessing creativity and innovation
+Leading with vision, inspiration and integrity
+Managing with agility
+Succeeding through the talent of people
+Sustaining outstanding results
 
-Overview
-Root Zone Management
+The Fundamental Concepts of Excellence form the basis for the criteria of the EFQM Excellence Model.
+We engaged EFQM to perform the assessment and will use the analysis to identify improvements. We remain
+    committed to using the EFQM model to perform continual review and improvement of the IANA services we provide to the
+    community.
 
-Overview
-Root Database
-Hint and Zone Files
-Change Requests
-Instructions & Guides
-Root Servers
 
-.INT Registry
 
-Overview
-Register/modify an .INT domain
-Eligibility
+About us
 
-.ARPA Registry
-IDN Practices Repository
-
-Overview
-
-Submit a table
-
-Root Key Signing Key (DNSSEC)
-
-Overview
-Trusts Anchors and Keys
-Key Signing Ceremonies
-Policies & Procedures
-Community Representatives
-Project Archive
-
-Reserved Domains
+Introduction
+Performance Reporting
+Procedures
+Presentations
+Public Reports
+Framework Documents
+Reviews
+Audits
+Excellence & Quality
+Contact us
 
 
 
@@ -607,53 +596,35 @@ None:
  + 
 script: 
 $(document).ready(function() {
-	$("#nav_dom_int").addClass("selected")
-	$("#nav_dom_int_policy").addClass("selected")	
-	$("#nav_dom_root_sub").hide()
-	$("#nav_dom_idn_sub").hide()
-	$("#nav_dom_dnssec_sub").hide()
-	$("#nav_dom_tools_sub").hide()
-	
+	$("#nav_about_excellence").addClass("selected")
 });
  + 
 None: 
  + 
 Title,Url
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,p,r,o,c,e,d,u,r,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,u,n,.,o,r,g,/,a,b,o,u,t,-,u,s,/,i,n,t,e,r,g,o,v,e,r,n,m,e,n,t,a,l,-,a,n,d,-,o,t,h,e,r,-,o,r,g,a,n,i,z,a,t,i,o,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,m,a,n,a,g,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,e,s,e,r,v,e,d
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,h,e,l,p
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,f,r,a,m,e,w,o,r,k
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c
+h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
+h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,a,u,d,i,t,s
+h,t,t,p,:,/,/,w,w,w,.,e,f,q,m,.,o,r,g,/,w,h,a,t,-,w,e,-,d,o,/,r,e,c,o,g,n,i,t,i,o,n,/,c,o,m,m,i,t,t,e,d,-,t,o,-,e,x,c,e,l,l,e,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,v,i,e,w,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,d,n,-,t,a,b,l,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,u,s,e
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,r,e,p,o,r,t,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t,/,m,a,n,a,g,e
+h,t,t,p,:,/,/,w,w,w,.,e,f,q,m,.,o,r,g,/,e,f,q,m,-,m,o,d,e,l,/,m,o,d,e,l,-,c,r,i,t,e,r,i,a
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,c,o,n,t,a,c,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,t,o,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/,p,r,i,v,a,c,y,/,p,o,l,i,c,y
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,n,u,m,b,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,a,r,c,h,i,v,e
-h,t,t,p,s,:,/,/,w,w,w,.,u,n,.,o,r,g,/,a,b,o,u,t,-,u,s,/,s,p,e,c,i,a,l,i,z,e,d,-,a,g,e,n,c,i,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,s,e,r,v,e,r,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,t,i,m,e,-,z,o,n,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,e,r,f,o,r,m,a,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,t,c,r,s
 h,t,t,p,:,/,/,w,w,w,.,i,c,a,n,n,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,i,n,t
+h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,p,r,e,s,e,n,t,a,t,i,o,n,s
 h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,a,b,o,u,t,/,e,x,c,e,l,l,e,n,c,e
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,a,r,p,a
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,t,o,c,o,l,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,d,b
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,o,m,a,i,n,s,/,r,o,o,t,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,f,i,l,e,s
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,p,r,o,c,e,d,u,r,e,s,/,i,d,n,-,r,e,p,o,s,i,t,o,r,y,.,h,t,m,l
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,d,n,s,s,e,c,/,c,e,r,e,m,o,n,i,e,s
-h,t,t,p,:,/,/,p,t,i,.,i,c,a,n,n,.,o,r,g
-h,t,t,p,s,:,/,/,w,w,w,.,i,a,n,a,.,o,r,g,/,g,o,/,r,f,c,3,1,7,2

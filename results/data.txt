@@ -9,9 +9,9 @@ h2:  Test IDN top-level domains
 h2:  Policy-reserved domains
 h2:  Other Special-Use Domains
 h2:  Domain Names
-https://www.iana.org/domains/root/db/xn--kgbechtv.html
-Title: .إختبار Domain Delegation Data
-h1:  Delegation Record for .إختبار
+https://www.iana.org/domains/root/db/xn--g6w251d.html
+Title: .測試 Domain Delegation Data
+h1:  Delegation Record for .測試
 h2:  Sponsoring Organisation
 h2:  Administrative Contact
 h2:  Technical Contact
@@ -19,8 +19,7 @@ h2:  Name Servers
 h2:  Registry Information
 h2:  IANA Reports
 h2:  Domain Names
-https://www.iana.org/domains/int/policy
-Title: .INT Policy & Procedures
-h1:  .INT Policy & Procedures
-h2:  Eligibility for a .INT domain
-h2:  Domain Names
+https://www.iana.org/about/excellence
+Title: Business Excellence and Quality Management
+h1:  Business Excellence and Quality Management
+h2:  About us

@@ -55,16 +55,16 @@ class SimpleSpider:
                 links.add(urljoin(url, href))
 
 # extract html tags
-        for element in soup.find_all([html_tags]):
+#        for element in soup.find_all([html_tags]):
             # Extract the values you want from the element
-            key = element.name
-            value = element.text
+#            key = element.name
+#            value = element.text
 
-            data[key] = value
+#            data[key] = value
 
 # dump to file
-            with open(file_path_json, 'a', encoding='utf-8') as f:
-                json.dump(data, f, indent=4)
+#            with open(file_path_json, 'a', encoding='utf-8') as f:
+#                json.dump(data, f, indent=4)
 
 # titles
         titles = soup.find("title")
@@ -115,12 +115,21 @@ class SimpleSpider:
 
 # build dictionary for url
             page_url = {}
+            existing_data = []
+
+# Load existing data from the JSON file
+            if os.path.isfile(file_path_json):
+                with open(file_path_json, 'r') as f:
+                    existing_data = json.load(f)
+
             key = "url"
             value = url
             page_url[key] = value
 
-            with open(file_path_json, 'a') as f:
-                json.dump(page_url, f, indent=4)
+            existing_data.append(page_url)
+
+            with open(file_path_json, 'w') as f:
+                json.dump(existing_data, f, indent=4, separators=(',', ': '))
 
             with open(file_path_csv, "a", newline="") as csvfile:
                 writer = csv.writer(csvfile)

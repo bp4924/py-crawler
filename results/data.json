@@ -1,85 +1,14 @@
-{
-    "title": "Example Domain"
-}{
-    "title": "Example Domain",
-    "h1": "Example Domain"
-}{
-    "url": "https://example.com/"
-}{
-    "title": "IANA-managed Reserved Domains"
-}{
-    "title": "IANA-managed Reserved Domains",
-    "h1": "IANA-managed Reserved Domains"
-}{
-    "title": "IANA-managed Reserved Domains",
-    "h1": "IANA-managed Reserved Domains",
-    "h2": "Example domains"
-}{
-    "title": "IANA-managed Reserved Domains",
-    "h1": "IANA-managed Reserved Domains",
-    "h2": "Test IDN top-level domains"
-}{
-    "title": "IANA-managed Reserved Domains",
-    "h1": "IANA-managed Reserved Domains",
-    "h2": "Policy-reserved domains"
-}{
-    "title": "IANA-managed Reserved Domains",
-    "h1": "IANA-managed Reserved Domains",
-    "h2": "Other Special-Use Domains"
-}{
-    "title": "IANA-managed Reserved Domains",
-    "h1": "IANA-managed Reserved Domains",
-    "h2": "Domain Names"
-}{
-    "url": "https://www.iana.org/domains/example"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "Sponsoring Organisation"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "Administrative Contact"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "Technical Contact"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "Name Servers"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "Registry Information"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "IANA Reports"
-}{
-    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
-    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
-    "h2": "Domain Names"
-}{
-    "url": "https://www.iana.org/domains/root/db/xn--kgbechtv.html"
-}{
-    "title": ".INT Policy & Procedures"
-}{
-    "title": ".INT Policy & Procedures",
-    "h1": ".INT Policy & Procedures"
-}{
-    "title": ".INT Policy & Procedures",
-    "h1": ".INT Policy & Procedures",
-    "h2": "Eligibility for a .INT domain"
-}{
-    "title": ".INT Policy & Procedures",
-    "h1": ".INT Policy & Procedures",
-    "h2": "Domain Names"
-}{
-    "url": "https://www.iana.org/domains/int/policy"
-}
+[
+    {
+        "url": "https://example.com/"
+    },
+    {
+        "url": "https://www.iana.org/domains/example"
+    },
+    {
+        "url": "https://www.iana.org/domains/root/db/xn--g6w251d.html"
+    },
+    {
+        "url": "https://www.iana.org/about/excellence"
+    }
+]
