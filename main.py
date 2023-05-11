@@ -10,7 +10,7 @@ file_path_csv = 'results/data.csv'
 file_path_json = 'results/data.json'
 results_folder = "results"
 
-delete_file = input("Do you want to delete the files? (y/n): ") or "y"
+delete_file = input("Do you want to delete the files? (y/n): [y]") or "y"
 if delete_file == 'y':
 
     if os.path.exists(results_folder):
@@ -66,8 +66,6 @@ class SimpleSpider:
             with open(file_path_json, 'a', encoding='utf-8') as f:
                 json.dump(data, f, indent=4)
 
-            print(data)
-
 # titles
         titles = soup.find("title")
         if titles is not None:
@@ -92,13 +90,14 @@ class SimpleSpider:
 
 # text of page
         page_texts = soup.find("body")
-#        with open(file_path_txt, 'a', encoding='utf-8') as f:
-#            for page_text in page_texts:
-#                f.write(f"{page_text.name}: {page_text.text} + \n")
+        if page_texts is not None:
+            #        with open(file_path_txt, 'a', encoding='utf-8') as f:
+            #            for page_text in page_texts:
+            #                f.write(f"{page_text.name}: {page_text.text} + \n")
 
-        with open(file_path_csv, 'a', encoding='utf-8') as f:
-            for page_text in page_texts:
-                f.write(f"{page_text.name}: {page_text.text} + \n")
+            with open(file_path_csv, 'a', encoding='utf-8') as f:
+                for page_text in page_texts:
+                    f.write(f"{page_text.name}: {page_text.text} + \n")
 
         return links
 
@@ -112,9 +111,16 @@ class SimpleSpider:
             self.visited_pages.add(url)
             links = self.get_links(url)
 
-#            with open(file_path_json, 'a') as f:
-#                for link in links:
-#                    json.dump(link, f)
+            print(url)
+
+# build dictionary for url
+            page_url = {}
+            key = "url"
+            value = url
+            page_url[key] = value
+
+            with open(file_path_json, 'a') as f:
+                json.dump(page_url, f, indent=4)
 
             with open(file_path_csv, "a", newline="") as csvfile:
                 writer = csv.writer(csvfile)
@@ -129,4 +135,4 @@ if __name__ == "__main__":
     start_url = "https://example.com/"
     spider = SimpleSpider(start_url)
     spider.crawl(start_url)
-    print("Done!! View results in the " + results_folder + " folder")
+    print("Done!! View results in the " + results_folder + "\n")

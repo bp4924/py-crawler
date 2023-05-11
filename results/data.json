@@ -4,6 +4,8 @@
     "title": "Example Domain",
     "h1": "Example Domain"
 }{
+    "url": "https://example.com/"
+}{
     "title": "IANA-managed Reserved Domains"
 }{
     "title": "IANA-managed Reserved Domains",
@@ -29,33 +31,55 @@
     "h1": "IANA-managed Reserved Domains",
     "h2": "Domain Names"
 }{
-    "title": "Root Zone Procedures"
+    "url": "https://www.iana.org/domains/example"
 }{
-    "title": "Root Zone Procedures",
-    "h1": "User Instructions and Guides"
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data"
 }{
-    "title": "Root Zone Procedures",
-    "h1": "User Instructions and Guides",
-    "h2": "Root Zone Management user guide"
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631"
 }{
-    "title": "Root Zone Procedures",
-    "h1": "User Instructions and Guides",
-    "h2": "Process descriptions and guides"
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
+    "h2": "Sponsoring Organisation"
 }{
-    "title": "Root Zone Procedures",
-    "h1": "User Instructions and Guides",
-    "h2": "Domain-related help articles"
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
+    "h2": "Administrative Contact"
 }{
-    "title": "Root Zone Procedures",
-    "h1": "User Instructions and Guides",
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
+    "h2": "Technical Contact"
+}{
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
+    "h2": "Name Servers"
+}{
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
+    "h2": "Registry Information"
+}{
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
+    "h2": "IANA Reports"
+}{
+    "title": ".\u0625\u062e\u062a\u0628\u0627\u0631 Domain Delegation Data",
+    "h1": "Delegation Record for .\u0625\u062e\u062a\u0628\u0627\u0631",
     "h2": "Domain Names"
 }{
-    "title": "Business Excellence and Quality Management"
+    "url": "https://www.iana.org/domains/root/db/xn--kgbechtv.html"
 }{
-    "title": "Business Excellence and Quality Management",
-    "h1": "Business Excellence and Quality Management"
+    "title": ".INT Policy & Procedures"
 }{
-    "title": "Business Excellence and Quality Management",
-    "h1": "Business Excellence and Quality Management",
-    "h2": "About us"
+    "title": ".INT Policy & Procedures",
+    "h1": ".INT Policy & Procedures"
+}{
+    "title": ".INT Policy & Procedures",
+    "h1": ".INT Policy & Procedures",
+    "h2": "Eligibility for a .INT domain"
+}{
+    "title": ".INT Policy & Procedures",
+    "h1": ".INT Policy & Procedures",
+    "h2": "Domain Names"
+}{
+    "url": "https://www.iana.org/domains/int/policy"
 }
