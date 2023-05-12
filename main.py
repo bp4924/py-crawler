@@ -86,6 +86,20 @@ class SimpleSpider:
 # headers
         headers = soup.find_all(['h1', 'h2', 'h3'])
         if headers is not None:
+            # merge h tags
+            h_tags = []
+            for header in headers:
+                h_tags.append(header.text)
+
+            key = "h_tags"
+            data[key] = h_tags
+            existing_data.append(data)
+            print(existing_data)
+
+# dump to json file
+            with open(file_path_json, 'w') as f:
+                json.dump(existing_data, f, indent=4, separators=(',', ': '))
+
             with open(file_path_txt, 'a', encoding='utf-8') as f:
                 for header in headers:
                     f.write(f"{header.name}:  {header.text}\n")
